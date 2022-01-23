@@ -1,0 +1,696 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type  content="text/html; charset=gb2312" ><meta name=ProgId  content=Word.Document ><meta name=Generator  content="Microsoft Word 14" ><meta name=Originator  content="Microsoft Word 14" ><title></title><!--[if gte mso 9]><xml><o:DocumentProperties><o:Author>Cloudy</o:Author><o:LastAuthor>Cloudy</o:LastAuthor><o:Revision>1</o:Revision><o:Pages>1</o:Pages><o:Lines>1</o:Lines><o:Paragraphs>1</o:Paragraphs></o:DocumentProperties><o:CustomDocumentProperties><o:KSOProductBuildVer dt:dt="string" >2052-11.1.0.11194</o:KSOProductBuildVer><o:ICV dt:dt="string" >081847C3CE4D42DDB3905E3A86EFEB30</o:ICV></o:CustomDocumentProperties></xml><![endif]--><!--[if gte mso 9]><xml><o:OfficeDocumentSettings></o:OfficeDocumentSettings></xml><![endif]--><!--[if gte mso 9]><xml><w:WordDocument><w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery><w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery><w:DocumentKind>DocumentNotSpecified</w:DocumentKind><w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing><w:View>Web</w:View><w:Compatibility><w:UseFELayout/></w:Compatibility><w:Zoom>0</w:Zoom></w:WordDocument></xml><![endif]--><!--[if gte mso 9]><xml><w:LatentStyles DefLockedState="false"  DefUnhideWhenUsed="true"  DefSemiHidden="true"  DefQFormat="false"  DefPriority="99"  LatentStyleCount="260" >
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Normal" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 9" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 9" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 9" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Normal Indent" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footnote text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="header" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footer" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index heading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="caption" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="table of figures" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="envelope address" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="envelope return" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footnote reference" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation reference" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="line number" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="page number" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="endnote reference" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="endnote text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="table of authorities" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="macro" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toa heading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Title" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Closing" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Signature" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  UnhideWhenUsed="false"  Name="Default Paragraph Font" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Message Header" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Subtitle" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Salutation" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Date" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text First Indent" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text First Indent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Note Heading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Block Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Hyperlink" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="FollowedHyperlink" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Strong" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Emphasis" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Document Map" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Plain Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="E-mail Signature" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Normal (Web)" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Acronym" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Address" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Cite" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Code" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Definition" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Keyboard" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Preformatted" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Sample" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Typewriter" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Variable" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  UnhideWhenUsed="false"  QFormat="true"  Name="Normal Table" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation subject" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="No List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="1 / a / i" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="1 / 1.1 / 1.1.1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Article / Section" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Simple 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Simple 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Simple 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Classic 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Classic 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Classic 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Classic 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Colorful 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Colorful 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Colorful 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table 3D effects 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table 3D effects 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table 3D effects 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Contemporary" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Elegant" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Professional" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Subtle 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Subtle 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Web 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Web 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Web 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Balloon Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Theme" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Placeholder Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="No Spacing" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Paragraph" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Quote" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Intense Quote" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 6" ></w:LsdException>
+</w:LatentStyles></xml><![endif]--><style>
+@font-face{
+font-family:"Times New Roman";
+}
+
+@font-face{
+font-family:"宋体";
+}
+
+@font-face{
+font-family:"Wingdings";
+}
+
+p.MsoNormal{
+mso-style-name:正文;
+mso-style-parent:"";
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+h1{
+mso-style-name:"标题 1";
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-bottom:5.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:24.0000pt;
+mso-font-kerning:22.0000pt;
+}
+
+h2{
+mso-style-name:"标题 2";
+mso-style-noshow:yes;
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-bottom:5.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:18.0000pt;
+}
+
+h3{
+mso-style-name:"标题 3";
+mso-style-noshow:yes;
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-bottom:5.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:13.5000pt;
+}
+
+h4{
+mso-style-name:"标题 4";
+mso-style-noshow:yes;
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-bottom:5.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:12.0000pt;
+}
+
+h5{
+mso-style-name:"标题 5";
+mso-style-noshow:yes;
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-bottom:5.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:10.0000pt;
+}
+
+h6{
+mso-style-name:"标题 6";
+mso-style-noshow:yes;
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-bottom:5.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:7.5000pt;
+}
+
+span.10{
+font-family:'Times New Roman';
+}
+
+p.pre{
+mso-style-name:"HTML 预设格式";
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.p{
+mso-style-name:"普通\(网站\)";
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+span.msoIns{
+mso-style-type:export-only;
+mso-style-name:"";
+text-decoration:underline;
+text-underline:single;
+color:blue;
+}
+
+span.msoDel{
+mso-style-type:export-only;
+mso-style-name:"";
+text-decoration:line-through;
+color:red;
+}
+
+table.MsoNormalTable{
+mso-style-name:普通表格;
+mso-style-parent:"";
+mso-style-noshow:yes;
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt;
+mso-para-margin:0pt;
+mso-para-margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-family:'Times New Roman';
+font-size:10.0000pt;
+mso-ansi-language:#0400;
+mso-fareast-language:#0400;
+mso-bidi-language:#0400;
+}
+@page{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;}@page Section0{
+size:595.3000pt 841.9500pt;
+mso-header-margin:42.5500pt;
+mso-footer-margin:49.6000pt;
+}
+div.Section0{page:Section0;}</style></head><body style="tab-interval:21pt;" ><!--StartFragment--><div class="Section0" ><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >西藏自治区高级人民法院</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >刑事判决书</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（</font>2020）藏刑终42号</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >原公诉机关西藏自治区日喀则市人民检察院。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >上诉人（原审被告人）邵滨江，男，</font>1977年4月19日出生于山东省聊城市，汉族，在职研究生学历，原系西藏自治区人民检察院计划财务装备处处长，住西藏自治区。因涉嫌犯受贿罪、滥用职权罪，于2019年5月16日被留置，同年11月15日被刑事拘留，同月25日被逮捕。现羁押于日喀则市看守所。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >辩护人孙文革，北京市北斗鼎铭律师事务所西藏分所律师。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >辩护人曹务阳，北京市北斗鼎铭律师事务所西藏分所律师。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >西藏自治区日喀则市中级人民法院审理日喀则市人民检察院指控原审被告人邵滨江犯受贿罪、滥用职权罪一案，于</font>2020年8月21日作出（2020）藏02刑初15号刑事判决。原审被告人邵滨江不服，提出上诉。本院依法组成合议庭，经提讯上诉人、听取辩护人意见、征求检察机关意见后，认为本案事实清楚，决定不开庭审理。现已审理终结。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >原判认定，（</font>1）被告人邵滨江担任西藏自治区人民检察院计划财务装备处（以下简称计财处）主持工作的副处长期间和担任处长之后，为上海××实业有限公司（以下简称××公司）谋取利益，非法收受该公司法定代表人王某人民币15万元（以下币种均为人民币）；为郭某谋取利益，非法收受郭某30万元。即2015年12月8日，××公司以北京××科技有限公司（以下简称××公司）提供的技术参数中标西藏自治区人民检察院（以下简称区检院）指挥调度设备采购项目。项目实施过程中，××公司擅自将××公司的技术参数提供给深圳××移动互联网有限公司（以下简称××公司），并将供货商××公司变更为××公司，致使项目重要参数发生重大变化。××公司遂向西藏自治区政府采购管理办公室（以下简称采购办）举报××公司违规。采购办调查期间，邵滨江主持召开协调会解决此事，××公司法定代表人王某参加了会议。会后王某在邵滨江办公室给予邵滨江5万元。在此之后计财处加盖处章与王某签订了该采购项目的合同补充依据和补充协议。2017年3月29日,计财处加盖处章出具了《关于北京××科技责任有限公司举报上海××实业有限公司所谓严重违法违规投标情况的举证回复函》，并将该《函》报至采购办，帮助××公司顺利通过项目调查，取得该项目第二批拨款657.3万元。第二批项目款拨付后，王莫某为表示感谢，向邵滨江表姐韩某的建设银行账户转存10万元，该账户银行卡系邵滨江实际使用；2016年,郭某、普某和赵某（该三人均另案处理）为了从区检院智能枪库升级改造项目中获取利益，帮助广州××实业有限公司（以下简称××公司）中标该项目，普某某某、赵某某分别向邵滨江说情未果。经三人商议由郭某给邵滨江送钱。该项目开标前，郭某在邵滨江办公室给予邵滨江10万元，后××公司顺利中标该项目。该项目实施完成后，郭某为表示感谢在邵滨江办公室给予邵滨江20万元。（2）被告人邵滨江担任区检院计财处主持工作的副处长期间和担任处长之后，不正确履行职责，导致国家资金损失939万元。2015年12月15日，区检院与××公司签订指挥调度设备采购项目合同，区检院向××公司支付首批项目款281.7万元，邵滨江、普某参与经办了拨款事宜。后××公司在实施该项目过程中擅自将××公司的技术参数提供给××公司，并将供货商××公司变更为××公司，致使项目重要参数发生重大变化。××公司向采购办举报，采购办根据举报进行调查。为了帮助××公司顺利通过调查，计财处加盖处章与王某签订了该采购项目的合同补充依据和补充协议。2017年3月29日,计财处加盖处章帮助王某出具了《关于北京××科技责任有限公司举报上海××实业有限公司所谓严重违法违规投标情况的举证回复函》，并将该《函》报至采购办。后该项目终止调查，区检院通过该项目验收，王某取得第二批项目拨款657.3万元。该项目未按照合同参数实施，经中国××实验室检验和专家论证，××公司提供的项目设备无法实现项目目标。邵滨江明知该项目存在问题被举报，且在××公司私自变更产品供应商的情况下，不但不按照政府采购合同约定终止履行合同，追回首期付款281.7万元，反而擅自签订补充协议，向调查单位出具虚假报告材料，推动该项目继续实施，并在项目未实际验收的情况下，拨付项目余款657.3万元，共造成国家资金损失939万元。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >原判认定上述事实有书证，证人证言，被告人供述，鉴定意见等在案证据证实。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >原判认为，被告人邵滨江利用职务上的便利，为郭某代表的</font>××公司中标区检院智能枪库升级改造项目提供帮助，非法收受郭某、普某、赵某30万元；为××公司被举报后继续实施区检院指挥调度项目提供帮助，收受该公司法定代表人王某15万元。共计非法收受他人钱财45万元，数额巨大，其行为构成受贿罪。被告人邵滨江明知××公司违规实施区检院指挥调度项目且被举报，不但未严格执行合同约定，及时提出工作建议并采取补救措施减少损失，追回已经拨付的281.7万元，反而利用职务便利为该公司继续履行合同出具虚假证明，使得该公司顺利拿到项目拨款657.3万元，导致国家经济损失939万元，情节特别严重，其行为构成滥用职权罪。公诉机关指控被告人邵滨江犯受贿罪、滥用职权罪的事实清楚，证据确实、充分，指控罪名成立。被告人邵滨江在判决宣告以前一人犯数罪，依法予以数罪并罚。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >被告人邵滨江到案后能主动供述其受贿事实，属坦白，依法可从轻处罚。对于辩护人提出邵滨江对其受贿事实供认不讳，认罪态度较好，且在其受贿过程中曾多次表示退还行贿人贿赂款，请求酌情从轻处罚的辩护意见，予以采纳。对于辩护人提出邵滨江滥用职权罪定罪证据不足，未达到刑法规定的法律因果关系，该案证据无法证明损失数额，损失不能确定的辩护意见。综合评析如下：</font>PDDS项目被举报后，邵滨江作为计财处处长应当在查明事实的基础上向区采购办如实报送调查结果，而本案中其未严格履行自己职责和尽到职权范围内签字审批环节的注意义务，怠于追回或怠于建议追回第一批项目拨款。未经实际调查，出具无客观和实质调查结论支撑的情况说明和举证回复函，直接将××公司王某提供的虚假材料作为情况说明和举证回复函的依据，推动了项目举报终止调查。终止调查后，其又签字建议拨付第二批项目款。该案立案时PDDS项目目标无法实现，而939万元项目资金已实际悉数拨付，直至案件提起公诉时区检院已无法对939万元进行有效占有和支配，该资金能否追回处于极其不确定状态。自治区财政厅以合同当事人区检院的举证回复函、项目举报人赛普乐公司的复函作为依据终止调查符合规定，属正常发生的介入因素。因此，该项辩护意见与审理查明的事实和法律规定不符，不予采纳。依照《中华人民共和国刑法》第三百八十五条第一款、第三百八十六条、第三百九十七条第一款、第三百八十三条第一款第二项、第五十二条、第五十三条、第六十一条、第六十二条、第六十四条、第六十七条第三款,《中华人民共和国监察法》第四十四条第三款，《最高人民法院、最高人民检察院关于办理贪污贿赂刑事案件适用法律若干问题的解释》第二条第一款、第十七条、第十九条第一款之规定，经审判委员会讨论决定，以被告人邵滨江犯受贿罪，判处有期徒刑三年，并处罚金人民币二十万元；犯滥用职权罪，判处有期徒刑六年。决定执行有期徒刑七年，并处罚金人民币二十万元。被告人邵滨江违法所得人民币四十五万元及其孳息，依法予以追缴，上缴国库。查封、扣押的手台、显示器、服务器依法返还西藏自治区人民检察院；查封、扣押的其他未随案移送的财物由查封扣押机关依法处理。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >邵滨江上诉提出，</font>1.一审对其受贿罪的量刑过重，希望二审根据其受贿的金额以及坦白交代和认罪认罚情节从轻处罚。2.一审认定滥用职权罪，不符合客观事实。项目从立项、招标等环节中其只是中间人，并非项目的筹划者和审批者，其只是按要求履行职责，不存在滥用职权的犯罪事实。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >辩护人辩护提出，</font>1.邵滨江的行为不构成滥用职权罪。根据公诉机关提供的证据，邵滨江的行为不符合滥用职权罪客观方面的要求，其行为与损失结果之间未达到刑法上的直接因果关系。且无任何直接证据证明调度设备采购合同签订及拨付预付款之时邵滨江主持计财处工作的事实，在采购计划表上签字的行为属于正常履职行为。配合采购办调查过程中提供的《举证回复函》系由王某起草，邵滨江不存在提供或指使提供虚假材料的事实，邵滨江既无犯罪动机，亦无犯罪主观故意，已在自己职责范围内尽到了最大的审核及提示义务；且未指使验收，更未指使制造虚假验收单，不存在滥用职权的故意。2.认定939万元系邵滨江的行为造成的损失结果于法无据，未经民事诉讼等司法措施，直接将939万元合同价款确定为损失不符合法律规定，且对邵滨江明显不利。另，手台设备均存放在区检院，至少应扣减现有设备价值及设备在拉萨等地市合同履行过程中的费用。专家意见和鉴定意见的论证结果存在不明确性、不准确性，且没有相关鉴定资质，不能作为定案依据，不宜认定为情节特别严重。3.即使构成滥用职权罪，也不属于情节特别严重，应当以一般情节在三年以下量刑。本案中的损失系多方原因造成，邵滨江未尽到注意义务，并非造成本案损失的唯一因素，甚至不是主要因素。4.从其处查获的40万元，邵滨江及其近亲属表示愿意上缴国库。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >西藏自治区人民检察院提出</font>,1.邵滨江关于受贿犯罪量刑过重的上诉理由不能成立。根据《刑法》第386条、383条及两高《关于办理贪污贿赂刑事案件适用法律若干问题的解释》第二条的规定，邵滨江受贿45万元，属于“数额巨大”，一审鉴于其认罪态度好，已在法定量刑幅度最低刑判处刑罚。被留置后从其住处查获40万元，虽其表示愿意上交国家，但此情节不属于收受请托人财物后及时退还或者主动上交，不影响受贿罪的认定，且不属于法定从轻情节。2.邵滨江关于其行为不构成滥用职权罪，一审认定事实不清、证据不充分的上诉理由不能成立。PDDS项目被举报后，邵滨江作为计财处长未严格履行自己职责和尽到职权范围内签字审批环节的注意义务，怠于追回或者怠于建议追回第一批项目拨款；未经实际调查，出具无客观事实和实质调查结论支撑的情况说明和举证回复函，直接将××公司王某提供的虚假材料作为情况说明和举证复函的依据，推动了举报项目终止调查。终止调查后，其又签字建议拨付第二批项目款。该案立案时PDDS项目目标无法实现，而939万元项目资金已悉数拨付，直至案件提起公诉时区检院已无法对939万元进行有效占有和支配。区财政厅以合同当事人区检院的举证复函、项目举报人××公司的复函作为依据终止调查符合规定，属于正常发生的介入因素。故，邵滨江明知××公司违规实施区检院指挥调度项目且被举报，不但未严格执行合同约定，及时提出工作建议并采取补救措施减少损失，追回已拨付的281.7万元，反而利用职务便利为该公司继续履行合同出具虚假证明，使得该公司顺利拿到项目拨款657.3万元，导致国家经济损失939万元，其行为构成滥用职权罪，且属于情节特别严重。综上，邵滨江的上诉理由不能成立。一审审判程序合法，判决事实认定清楚，证据确实、充分，定罪准确，量刑适当，建议二审维持原判。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >经审理查明，上诉人邵滨江在担任西藏自治区人民检察院（以下简称区检院）计划财务装备处（以下简称计财处）副处长、处长期间，利用职务便利为他人谋取利益，收受他人钱款</font>45万元，数额巨大，并滥用职权，致使公共财产遭受重大损失，情节特别严重。另查明，办案机关在调查期间从邵滨江住处扣押违法款40万元。具体犯罪事实如下：</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >一、受贿犯罪事实</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（一）</font>2015年12月8日，上海××实业有限公司（以下简称××公司）以北京××科技有限公司（以下简称××公司）提供的技术参数中标区检院指挥调度设备采购项目即PDDS项目。项目实施过程中，××公司擅自变更产品参数,并将供货商变更为深圳××移动互联网有限公司（以下简称××公司），为此××公司向西藏自治区政府采购管理办公室（以下简称采购办）举报。在采购办调查期间，××公司法定代表人王某为了使项目顺利推进，给予邵滨江5万元，后根据王某提供的补充依据，区检院计财处与××公司签订了该采购项目的补充协议。2017年3月29日，计财处根据采购办的要求，对××公司的违规投标情况进行了举证，帮助××公司顺利推进项目，××公司获得该项目第二批拨款后，王某给予邵滨江10万元感谢费。邵滨江将上述15万元用于生活开支。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >另查明，王某因犯串通投标罪、行贿罪，于</font>2020年1月被西藏自治区城关区人民法院判处有期徒刑一年三个月，并处罚金人民币十一万元。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >上述事实有经一审庭审举证质证，本院确认的下列证据予以证实：</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >1.《中国建设银行银行卡流水清单》证实，2017年10月17日王某将10万元转存至邵滨江指定的韩芬建设银行账户。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >2.西藏自治区城关区人民法院（2020）藏0102刑初12号刑事判决书证实，王某因在区检院指挥调度设备项目中串通投标，并在该项目中为谋取不正当利益，给区检院计财处长邵滨江行贿。故以串通投标罪、行贿罪，被判处有期徒刑一年三个月，并处罚金人民币十一万元。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >3.证人王某的证言证实，2015年经拉萨××商贸有限公司的法定代表人郭某介绍，××公司作为××公司西藏代理商中标区检院指挥调度设备项目，此后不久其擅自变更了产品参数，并将供货商变更为深圳××公司。为此被××公司举报，在采购办调查该举报问题过程中，为了顺利推进项目，其找区检院计财处长邵滨江帮忙，并先后向其行贿2次，第一次其将5万元现金和一些土特产送到邵滨江办公室，希望他在采购办质询时给予帮助。第二次是在其收到项目尾款后的一天，邵滨江给其打电话要求借款10万元，其向邵滨江提供的韩芬账户存款10万元，该笔借款没有借据，系其为感谢邵滨江在该项目上提供的帮助所送。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >4.上诉人邵滨江的供述证实，2012年下半年，其任区检院任计财处副处长，临时主持计财处工作。期间，其在全区检察机关装备业务购置项目的资金申请书上签过字，后该项目进行招标，招标过程其未参与。北京××公司的代理商上海××公司中标后提供了600多部手台。在其被提任为计财处长后不久，因××公司变更了合同，被××公司举报。在采购办调查期间，××公司的王某到其办公室谈举报之事，并留下装有5万元现金的袋子，日后其要求王某将钱收回未果。后计财处向财政厅提交的举证复函内容偏向于王某，继续由王某提供变更后的产品。调查终结后又重新申请财政厅将收回去的600余万元项目尾款予以拨付，王某收到项目尾款后联系其提供银行账户，其将表姐韩某的账户提供给王某后收到10万元好处费。其将上述15万元用于日常生活开支。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（二）</font>2016年,郭某、普某和赵某（三人均另案处理）为了从区检院智能枪库升级改造项目中获取利益，帮助广州××实业有限公司（以下简称××公司）中标该项目，普某、赵某分别向上诉人邵滨江说情未果后，三人共同商议向邵滨江行贿。遂郭某在项目开标前将10万元现金送到邵滨江办公室，后××公司顺利中标。项目实施完成后，三人决定再给予邵滨江20万元感谢费，并由郭某将该款送到邵滨江办公室。邵滨江将上述30万元用于偿还债务和生活开支。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >上述事实有经一审庭审举证质证，本院确认的下列证据予以证实：</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >1.《西藏自治区检察院关于改造智能数字化枪库枪柜的报告》证实，2015年10月16日区检院计财处向区财政厅申请解决该院智能数字化枪库枪柜，所需经费452.48万元，并附方案及经费。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >2.证人郭某的证言证实，其与赵某系拉萨××商贸有限公司的股东。2016年，区检院有枪库升级项目，其与赵某、普某共同商量决定拿下该项目，并决定为此给邵滨江行贿50万元。但不以××公司名义要项目，而是以广州××实业有限公司名义投标，由赵某和邵滨江商量好后让其去对接，其在邵滨江办公室送了10万元现金，邵滨江“指导”其如何投标，其将邵滨江收钱的情况告诉了赵某和普某。××公司按邵滨江的要求提供了两个商家参与投标，后××公司顺利中标。项目完工后，三人决定为了将更多的钱投资生钱，只给邵滨江补20万元，后由其将20万元送到邵滨江办公室。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >3.证人普某的证言证实，2016年三四月份，其到财政厅政法处办事时，赵某提议其报智能枪库升级改造的项目，回单位向邵滨江汇报后，得到应允，并安排其写报告。其将此事及时告知了赵某和郭某。郭某收集区检院枪库数据后由赵某起草报告，其将该报告呈给邵滨江签字后加盖计财处处章，并送到赵某处审核。没过几天，指标文件下发，其将该文件送到邵滨江办公室，并表示赵某想做该项目，希望得到帮助，邵滨江婉拒，其当日将被拒绝的情况告诉了赵、郭二人。后赵某提议给邵滨江送钱，其与郭某亦同意，三人决定送50万元。没过几天郭某到其办公室告诉了邵滨江收受10万元的情况，此后邵滨江很快签了指标文件，并安排其尽快招标。在邵滨江的帮助下郭某代理的广州××公司中标，待项目尾款全部拨付完后，郭某告诉其与赵某又给邵滨江送去20万元的事情。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >4.证人赵某的证言证实，郭某想做区检院的枪库升级项目，让其帮忙给邵滨江打电话说情，其安排郭某和普某以其名义找邵滨江要该项目，顺便探探口风，但被拒绝，后其给邵滨江打电话说情仍被拒绝。一天郭某提议给邵滨江送钱，其表示可以试试。此后不久邵滨江给其打电话告诉了郭某送来10万元的事情，并询问其郭某是否可靠。后来郭某做成了该项目，大部分利润由其和郭某、普某平分。再后来听郭某说邵滨江催要剩余的感谢费，郭某便给了20万元。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >5.上诉人邵滨江的供述证实，2016年上半年,赵某委托普某到其办公室问区检院的枪库项目能否给赵某的朋友郭某做，其以自己没有决策权为由予以回绝。大概过了一个月后郭某到其办公室，自称是赵某最好的朋友，表示想要做枪库项目，并愿意拿出50万元感谢费。当日，郭某在其办公室留下装有10万元现金的袋子，事后其给赵某打电话说了郭某送钱之事，赵某称郭某很可靠，其便没有退还该款。在项目上其未给郭某设置任何障碍，郭某拿到该项目后，在一次酒桌上赵某表示郭某还会给其送钱。2017年下半年项目验收拨完款后，郭某将装有20万元现金的黑色袋子送到其办公室，其想该笔款应该系赵某催郭某送来的，便未推辞。其将从郭某处收受的30万元用于偿还债务及日常开支。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >二、滥用职权犯罪事实</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >2015年12月15日，区检院与××公司签订指挥调度设备采购项目合同，并支付首批项目款281.7万元，上诉人邵滨江、普某参与经办了拨款等事宜。后××公司因擅自变更供货商及产品参数被举报，区财政厅采购办在调查该举报项目过程中，邵滨江作为计财处长，不仅没有积极履职追回已拨付的首批项目款，反而违法收受××公司法定代表人王某贿赂，并以王某提供的内容不实的材料作为依据向采购办提交了举证复函，促使调查终结，项目继续实施，××公司一次性获得项目第二批拨款657.3万元。区检院分两次收到所采购的1500部手台，将第一批手台发放给区检院及拉萨市检察院干警，经邵滨江等计财处干警及相关通讯部门测试，发现西藏大部分地区无法实现使用功能，但邵滨江仍安排装备科、技术处的工作人员予以“验收”。产品使用不到一年将已发放的手台全部收回。经鉴定，所采购的手台及相关设备无法实现项目目标，由此造成公共财产损失939万元。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >上述事实，有经一审庭审举证、质证，本院予以确认的下列证据证实：</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >1.物证照片，手持终端、中心集群调度服务器、液晶显示器照片。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >2.书证</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（</font>1）《西藏自治区人民检察院职能配置、内设机构和人员编制方案》证实，计划财务装备处负责制定全区检察机关装备计划，并协调组织实施；对中央和财政部门补助我区检察机关的办案、装备及基本建设经费进行管理、分配等工作。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（</font>2）《西藏自治区人民检察院关于2015年检察业务装备设备的请示》（藏检发计字【2015】×××号）证实，2015年9月22日区检院以公安部、最高检《县级人民检察院基本业务装备指导标准（试行）》文件为依据，向区财政厅请示解决检察业务技术装备，其中包括“PDDS公网集群指挥调度系统”设备。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（</font>3）《西藏自治区财政厅关于下达2015年度全区检察机关业务装备购置经费预算指标的通知》（藏财行指（专）字【2015】×号）证实，2015年10月20日下达2015年度全区检察机关业务装备购置经费3971.11万元，实行政府采购，专款专用。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（</font>4）《政府采购中标通知书》《西藏自治区政府采购合同书》证实，2015年12月8日，西藏××招标有限公司通知上海××公司中标区检院指挥调度设备采购项目，中标金额为939万元；同月15日区检院和××公司签订采购合同，约定2016年5月26日前交货、验收，签订合同后支付预付款即总价的45%，设备到齐验收后支付40%，安装调试、验收后支付10%，货物正常运转12个月后支付剩余5%。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（</font>5）《西藏自治区人民检察院关于支付全区检察机关业务装备款的请示》《财政资金支付申请书》证实，2015年12月18日，区检院向财政厅申请拨付项目预付款“合同总价为939万元整。现按照合同约定预付该公司30%货款共计2,817,000元”。同月23日支付××公司2,817,000元。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（</font>6）《合同补充依据》《补充协议》证实，项目实施过程中，根据高原特点及现场实地测试，区检院提出相关功能需求。需补充变更，故区检院计财处与茂惠公司于2016年1月7日签订补充协议，并确定1500部手持终端设备采用深圳××公司产品。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（</font>7）《合同书》及补充协议，《深圳市××移动互联网有限公司对账单》及银行客户回单证实，2015年12月28日，甲方上海××公司与乙方深圳××公司签订合同，约定甲方为乙方在西藏区域检察院、财政厅等领域独家经营合作伙伴，甲方在该区域承诺只采购乙方的产品；合同金额189万元，交货时间2016年5月29日前。2016年8月1日，签订补充协议，将1500部中的870部变更为电信全网通，联通的价格不变，全网通的价格变更为920元&#9585;部，合同总价变更为199.44万元。深圳××公司自2015年12月至2017年1月分七次收到××公司支付的1,751,000元。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（</font>8）《关于上海××公司严重违法违规投标的举报以及西藏××招标公司不当处理的意见》《西藏自治区财政厅行政处罚案件立案通知书》证实，2016年1月18日，××公司向采购办举报上海××公司存在串通投标，递交虚假材料、虚构营业额、弄虚作假，骗取中标情况。财政厅于12月28日决定立案。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（</font>9）《关于北京××科技有限公司举报上海××公司严重违法违规投标情况的举证函》证实，2017年3月17日，区财政厅发函，要求区检院对该院3月16日报送的情况说明中所列中标产品进藏实测后，发现存在3G信号盲区以及供货产品达到指挥调度使用状态后运送等相关内容进行举证。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（</font>10）《关于指挥调度产品采购情况的报告》《关于北京××科技有限公司举报上海××公司所谓严重违法违规投标情况的举证回复函》证实，2017年3月15日，计财处以区检院名义向采购办说明：经双方项目负责人协商，应对原供货合同予以中止，对供货产品进行调整，更改后的产品参数呈现正偏离，调整后的产品分两次到达区检院。××公司未涉嫌违规操作，但采购变更事项审批不够完整，建议补充相关手续后，按照原合同和补充协议执行。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（</font>11）《西藏自治区人民检察院关于申请拨回收回资金的请示》《西藏自治区财政厅关于下达检察业务装备购置经费待支付款项预算指标的通知》证实，2017年8月17日，区检院向区财政厅请示拨回指标资金，其中包括装备购置经费资金结余904.64万元。财政厅于2017年9月13日通知下达装备购置经费待支付款项，其中包括指挥调度设备余款657.3万元。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（</font>12）《西藏自治区人民检察院关于支付指挥调度设备采购项目的函》《支款凭证》《财政资金支付申请》证实，2017年9月22日，区检院向区财政厅发函要求支付指挥调度设备余款657.3万元，并载“按照合同约定该公司已提供全部设备及软件安装，安装调试完毕已正常运行1年，我院出具终验报告……”。同月27日，区检院装备科支款657.3万元，次日将该款支付给茂××公司。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（</font>13）西藏自治区本级采购验收单证实，2017年9月22日，计财处在验收单上盖章，该验收单有李某1、顾某、田某、丹增签字。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >3.证人证言</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（</font>1）证人普某的证言证实，其与赵某、郭某经常一起吃饭聊天。2015年初，在一次聊天过程中赵某提出可以做采购手台的计划，其表示十二五规划里没有该计划，赵某提议打政策擦边球，并让其找最高检的相关文件。后赵某称，项目名称不宜写“手台”，不好通过，可将名称写高端一些，写“检察系统PDDS指挥调度系统”。郭某表示他能找人做此项目。后赵某安排郭某收集手台的参数资料，他自己去找采购手台的相关依据，由其做采购计划报领导审批，后其将赵某帮忙制作的采购计划上报邵滨江审批后报财政厅政法处赵某处。项目招标前，郭某约其与做手台的上海××公司老总王某一起吃饭，王某表示其代理了北京××公司的产品，并提供了参数。其将参数给了赵某，经赵某协调并审核，计划很快获批。其将指标文件呈给邵滨江后过了半个多月没有动向。后其与赵某和郭某三人商量给邵滨江送钱之事。次日其听郭某说已送去10万元，邵滨江没有推脱。隔天邵滨江签了指标文件，并安排其尽快招标。王某的××公司顺利中标，签完合同后其经邵滨江同意，给××公司支付了预付款。2016年年前收到第一笔货后按照邵滨江的指示分发给本院及拉萨市检察院，并办理了联通卡。三四月份，其同邵滨江到××、××出差调研期间顺便带了一部手台进行信号测试，发现有些县区没有信号，期间邵滨江长接到财政厅的电话，质疑手台项目。出差回来后其从财政厅领取了质疑的文件及××公司举报××公司的材料给了邵滨江，后来邵滨江组织王某、王永久和计财处的人开会，会上没有解决具体的事项，但会后王某带了一份补充协议和补充依据文件称邵滨江安排其盖章，其电话核实后在补充协议上盖了计财处的章子。六七月份，收到第二批货后因为质疑还没解决，全部放在仓库里。2017年三四月份，邵滨江将其从驻村点叫回来写质疑回复函，其写完后邵滨江进行了反复修改后报给了采购办，实际上手台没有做过任何测试、参数对比、专家论证，对质疑的问题也没有进行任何核实和调查，邵滨江知道这些情况，且区检院报给采购办的复函内容是造假的。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（</font>2）证人王某的证言证实，2015年，经郭某中介，××公司作为××公司西藏代理商的名义参与区检院的指挥调度系统项目竞标，且为了屏蔽更多的竞争对手，招标前将项目名称改为PDDS，参与竞标的三家公司均为其所安排，后××公司中标，此后不久其私自将供货商变更为××公司。为此被××公司举报，在财政厅采购办调查该举报问题过程中，邵处主持召开会议，质询其为何变更产品，并称私自变更产品理应废标，但让其出具变更产品和供货商的说明。后其给区检院提供了关于区内覆盖无线信号的说明和3G信号在西藏部分地区的实测报告及“关于北京××科技责任有限公司举报上海××实业有限公司所谓严重违法违规投标情况的举证回复函”。实际上其弟弟王永久只在拉萨及周边县区测试过信号，上述文件所写内容和时间均系其造假。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（</font>3）证人苏某（北京××科技有限责任公司董事总经理）的证言证实，2015年五六月份，上海××公司的王某联系其，表示想要做××在西藏的代理商，其同意后王某的弟弟到北京来培训，但此人什么也不懂，只待了一天就不见人影。后其多次电话联系王某问在西藏有无业务，否则要取消代理资格，并派人去上海拜访××公司后发现公司并无实力。2015年11月左右，王某称西藏有项目，让其报备，其向王某出具授权书，并说明了若此次项目中标，必须用××的产品。中标后给王某提供了2部对讲机和一些登录帐号参数。之后王某不再联系××，为了不影响公司名誉，其收集相关证据后，于2016年1月18日向西藏自治区财政厅举报了此事，2017年，王某得知被举报后多方找人与其谈和，其要求王某支付合同价10%的违约金和支持费，后王某只支付了支持费用、差旅费用、提供样机和测试支持的费用共计40万元。2017年5月25日与王某签了合作终止协议。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（</font>4）证人邓某的证言证实，2015年7月起其在上海××公司工作，当时公司股东只有王某和王某1，员工只有其一人，经营比较惨淡，工资拖两三个月才发。当年王某安排其通过QQ邮箱和北京××公司对接西藏自治区检察院的指挥调度设备采购项目，大概一个月后王某又安排其与深圳××公司对接，主要探讨因满足高原特殊条件需求而变更产品参数问题。但与区检院的采购合同非其所签，其从未到过西藏，且合同落款的签名字迹明显系冒签。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（</font>5）证人李某1（时任区检院计财处副调研员）的证言证实，2015年8月份，普某曾起草过区检院指挥调度项目的请示。2016年元月份，其驻村回来后丹某到其办公室发了一部手台。到2017年9月份左右，财政厅监督局工作人员到区检院计财处调查指挥调度项目，邵滨江去解释了。9月28日，丹某拿着西藏自治区本级采购验收单到其办公室声称邵滨江指示其在验收单上签字，其没有实地去验收，也不知道产品的来历，签字的时候只见到了有落款的第二页，并未见过写有具体产品信息的第一页。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（</font>6）证人任某（时任采购办副主任并主持工作）的证言证实，2014年其任区财政厅采购办副主任期间，没有主任，由其具体负责采购办工作。2016年1月25日，采购办收到北京××举报上海××公司严重违法违规的材料，反映××公司违法串标、私自变更中标产品等问题。收到举报后采购办立即通知区检院停止该项目的采购活动，并通知招标公司作出说明，通知区检院就产品变更问题作出说明。2017年3月16日，区检院向采购办书面说明××公司在变更产品参数前已经事先通知过区检院。3月21日向区检院送达《关于北京××科技有限公司举报上海××实业有限公司严重违法违规投标情况的举证函》，要求提供相关书面的证据，29日区检院计财处向采购办复函举证，并提供了《补充协议》和《产品检测结果和供方给我院的通知函》及联通公司关于全区各县无线信号覆盖的说明等证据材料，同时称继续收货的原因是经过专家论证。5月31日，区检院又向采购办提交了××公司和××公司达成的《合作终止协议》，采购办经向××公司质询确认后终止调查该案，并要求区检院依法依规开展采购活动。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（</font>7）证人肖某（深圳市××移动互联网有限公司销售总监）的证言证实，2016年，上海××公司作为区检院的代理商向深圳××公司购买对讲机产品并要求技术指导，第一次其同公司副总张勇胜带产品到西藏进行信号测试，只在拉萨市区内对联通卡做了测试，参与测试的还有王永久；第二次其一人代表公司到拉萨再次进行产品信号测试，只去了拉萨周边的检察院进行测试，检察院没有派人，只有王某1和联通公司的两个人参与。第一次提供的630台对讲机的参数是根据××公司的要求提供的产品，后因信号覆盖不全等问题要求提供全网通的手机，为此签订了补充协议，并将合同价提高到199.44万元。××公司所提供的《3G信号在西藏部分地区的实测报告》中所述内容系伪造，其未曾去过报告中所提的地县测试信号。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（</font>8）证人张某（深圳市××移动互联网有限公司副总经理）的证言证实，2015年年底，上海××公司的王某给其打电话称有个1500部手台的紧急项目，问其是否愿意合作。后其到上海洽谈，最终以189万元签订了协议。2016年初，王某派王某1来深圳学习，后王永久带其与肖某去拉萨测试产品，只在拉萨市区进行了测试。王某称招标方案和招标规格参数均系北京××公司的，且王某总是强调该订单非常着急。××公司给××公司付款都是十几、二十万的陆陆续续汇款，其曾到上海找王某，发现王某名下的两家公司都是空壳公司，直到现在王某尚欠××公司24万余元货款。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（</font>9）证人顾某（区检院技术处工人）的证言证实，2017年9月22日，装备科的丹某带着西藏自治区检察院本级采购验收单到技术处办公室要求签字，并称签字是计财处领导的指示。其未曾实地验收过产品，仅因领导安排而在验收单上签字。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（</font>10）证人田某（区检院技术处工人）的证言与顾某的证言一致。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（</font>11）证人丹某（区检院计财处装备科工人）的证言证实，2015年12月左右，王某1和肖某来区检院培训手台的使用方法，过了一个月后听普某说第一批货到了，2016年年初其按邵滨江的指示，将520多部手台发放给了区检院及拉萨市检察院干警，并收集本院所有干部的身份信息后找西藏联通公司的客户部经理余某办理了200多张电话卡。二月份左右，邵滨江和普某去××和××出差时拿了两部手台做测试，其中一部他们带去，一部留在其手中，但其接收不到他们所发的数据。后来听普某说该项目被财政厅质疑，要求其暂停发放手台，并停止对上海××公司拨款。二人出差回来后邵滨江召集王某1计财处的人开了一次会，并签订了补充依据，后王某1西藏各县无线信号覆盖说明的文件称，需要盖联通公司章子，其将王某1去邵滨江办公室汇报，邵滨江当即让其给联通公司的余某打电话办理此事。2016年7月份收到第二批货后，其按邵滨江指示将货物清点后放入仓库。之后邵滨江安排其去取财政厅下发的关于区检院指挥调度项目继续实施的文件，并安排其给××公司拨付剩余的600余万资金。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（</font>12）证人余某（联通西藏分公司政企客户事业部行业总监）的证言证实，2015年下半年，其曾先后两次到区检院邵滨江办公室介绍联通资费业务并根据邵滨江的要求重新配置了套餐，后与区检院签订了一年的合同并办理了200余张3G卡。数据卡送过去后放在手台里进行了测试，后期有问题都是手台厂家派驻在区检院的售后和培训负责人王某2对接。办完数据卡后的一天王某2给其打电话称区检院现需要联通公司提供一份部分地区覆盖3G信号的说明，其跟装备科的丹某确认后让王工提供需要核实的地方，并经领导同意后让客响中心核实王工所提供的××、××一些地方信号覆盖情况，经核实，那些地方没有3G信号。其将此情况告知王某2后，王某2求联通公司出具一份说明，内容由王某2起草，只需盖章。因其不在岗，盖章之事由同事李某2办理。其不知道××在情况说明中提到了现场测试等不实内容，且王某2其盖章的时间是2016年10月而非元月。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（</font>13）证人李某2（联通西藏分公司运行维护部客响专业负责人）的证言证实，2016年10月左右，政企客户事业部的余某给其打电话让其帮忙做区检院的联通信号覆盖资源核查。几天后一个自称是区检院的男子带着一份联通公司出具给区检院的说明，上面记载着需要核实信号覆盖的地方名称等内容，其核查了该男子所提供的所有地区后发现均无联通无线信号覆盖。后该男子去盖章了，具体盖章及套红头情况其不了解。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >4.鉴定意见</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（</font>1）《邵滨江等涉嫌滥用职权、受贿案专家论证意见书》证实，根据日喀则市人民检察院的委托，由最高人民检察院司法鉴定中心代为组织专家论证，经充分论证，得出的论证意见为：根据招标文件的项目描述，该项目名称为“PDDS专业数字调度系统”，根据项目要求所有功能所需的软硬件，实际供货缺少网关、网桥、交换机设备；根据合同及招投标文件提出的功能要求，实际供货软件说明书中不具备环境监听、遥控摄像头和麦克风控制、自动倒地告警、紧急告警、PTT自定义按讲键等主要功能；实际供货的硬件设备服务器的参数指标不够详细，手持终端部分第一批供货630部，第二批供货870部，两批终端均不支持中国移动和中国电信3G网络，第一批终端不支持4G网络，第二批终端没有相关进网许可。故无法在全区范围内实现系统功能，无法实现项目目标。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（</font>2）中国××实验室检验报告证实，经××实验室对送检的涉案对讲机进行检验后，认定所送检的设备均无法与综测仪进行通信连接。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >5.上诉人邵滨江的供述证实，通讯设备项目的前期招投标工作其均未参与，具体工作都由普某负责。第一批货验收后，财政厅通知其该项目出现问题，后该项目在财政厅调查时，王某曾到其办公室希望就调查之事通融，并给了5万元现金。其给财政厅出具了内容不属实、不准确的举证回复函，但该复函其只是做了文字修改，实质内容未审查，后因多方原因财政厅终止调查。其在拨款单上签字系正常履职行为。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >本案还有经一审庭审举证、质证，本院确认的以下综合证据：</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >1.自治区纪委监委第九审查调查室《邵滨江到案经过》证实，2019年5月16日上午，调查组赴区检院，请区纪委监委派驻区检院纪检组电话联系邵滨江到纪检组办公室了解情况，邵滨江到达后调查组将其带去纪委监委纳金管理中心14号留置室，向其宣布了立案决定和留置决定。期间，邵滨江能够配合调查组工作，坦白了其涉嫌滥用职权，造成国有资产损失的问题；主动供述了收受王某、王某1的问题，如实供述了收受王某10万元，收受郭某30万元等审查中发现的问题。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >2.户籍证明证实，邵滨江，男，1977年4月19日生，汉族。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >3.《干部任免审批表》、区检院藏检党【2013】××号《任职通知》、区检院政治部《证明》证实，邵滨江于2013年1月19日任区检院计财处副处长，2016年1月18日任区检院计财处处长。因计财处原处长于2015年下半年被安排驻村，自2015年6月10日起由邵滨江主持计划财务装备处工作，且在正式任职计财处处长前一直在岗工作。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >4.自治区纪委监委第九审查调查室《情况说明》证实，在调查期间，经依法对邵滨江住宅搜查,查获违法资金40万元，并予以扣押。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >本院针对一审认定的事实、理由、量刑及对上诉理由、辩护意见、检察意见综合评判如下：</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >关于受贿事实，邵滨江始终供认，且邵滨江供述与在卷银行交易清单，证人证言所述的犯罪时间、地点、原因、金额等相互印证，故可认定邵滨江利用职务之便为请托人王某、郭某在区检院指挥调度设备项目和智能枪库改造升级项目中提供帮助，并收受贿赂</font>45万元的犯罪事实。根据《中华人民共和国刑法》第386条、383条及《最高人民法院、最高人民检察院关于办理贪污贿赂刑事案件适用法律若干问题的解释》第二条第一款之规定，受贿数额在二十万元以上不满三百万元的，应认定为“数额巨大”，依法判处三年以上十年以下有期徒刑，并处罚金或者没收财产。邵滨江向调查组交代的上述犯罪事实均系调查机关已掌握的线索，不存在自首、立功等法定从轻或减轻处罚情节。鉴于邵滨江归案后如实交代受贿犯罪事实，一审认定坦白，并考虑酌情从轻处罚，已在法定刑最低幅度内量刑。故根据犯罪情节和受贿数额判处有期徒刑三年，并处罚金二十万元量刑适当，本院予以确认。且关于受贿罪量刑过重的上诉理由不能成立，不予采纳。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >另，在本案调查期间，办案机关依法扣押了从邵滨江住处查获的</font>40万元现金，且其本人及近亲属表示愿意上缴该款，故一审判决继续追缴违法所得45万元及其孳息不当，应予以纠正，应判决继续追缴剩余5万元及其孳息。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >关于滥用职权犯罪事实，邵滨江不予供认，辩护人亦认为认定其滥用职权的证据不足。经查，邵滨江于</font>2015年6月10日起全面主持计财处工作，且2015年12月15日签订指挥调度设备采购合同之日拨付预付款时，邵滨江在拨款申请书上签字。2016年1月7日，茂惠公司与计财处签订补充依据和补充协议，对产品参数和供货商作出变更等系列活动中邵滨江始终参与其中，并收受××公司负责人王某5万元，该项目在采购办调查期间出具内容不实的举证复函，为茂惠公司继续实施该项目并从中获利提供便利，在项目实施完毕即××公司收到项目余款后收受王某10万元感谢费。邵滨江明知××公司在项目调查过程中提供虚假材料，不但不积极追回已拨付款项，反而掩盖事实，帮助提供虚假材料，促使调查终结；明知××公司提供的产品无法实现合同目的，仍安排一次性拨付余款600余万元，未按照《采购合同》约定履行合同。致使939万元的合同未能实现合同目的，造成公共财产遭受重大损失，一审认定邵滨江构成滥用职权罪的事实清楚，证据确实、充分，定罪准确。本院应予确认。故不构成滥用职权罪的上诉理由和辩护意见不能成立，不予采纳。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >关于辩护人提出即使构成滥用职权罪，一审量刑畸重，应在三年以下有期徒刑幅度对其量刑的辩护意见。经查，《刑法》第三百九十七条规定，国家机关工作人员滥用职权，致使公共财产、国家和人民利益遭受损失，情节特别严重的，处三年以上七年以下有期徒刑。本案中，邵滨江滥用职权的行为造成</font>939万元的项目无法实现合同目的，致使公共财产遭受巨大损失，属于情节特别严重，且邵滨江归案至今拒不供认其滥用职权的犯罪事实，一审综合其犯罪事实和认罪态度等情节，判处六年有期徒刑的量刑并无不当。故该辩护意见不予采纳。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >关于西藏自治区人民检察院所提邵滨江的上诉理由不能成立，一审认定事实清楚，证据确实、充分，量刑适当，审判程序合法，建议本院维持原判的检察意见与本院查明的事实基本相符，但鉴于二审已查明办案机关自邵滨江处扣押违法所得</font>40万元，一审追缴违法所得45万元的判决应予以改判，其余检察意见本院予以采纳。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >综上，原判认定上诉人邵滨江犯受贿罪、滥用职权罪的事实清楚，证据确实、充分，适用法律正确，量刑适当。审判程序合法。唯判决继续追缴违法所得</font>45万元及其孳息不当，本院予以纠正。依照《中华人民共和国刑事诉讼法》第二百三十六条第一款第（三）项，《中华人民共和国刑法》第三百八十五条第一款、第三百八十六条、第三百九十七条第一款、第三百八十三条第一款第二项、第五十二条、第五十三条、第六十一条、第六十二条、第六十四条、第六十七条第三款,《中华人民共和国监察法》第四十四条第三款，《最高人民法院、最高人民检察院关于办理贪污贿赂刑事案件适用法律若干问题的解释》第二条第一款、第十七条、第十九条第一款、第六十四条之规定，判决如下：</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >一、维持西藏自治区日喀则市中级人民法院（</font>2020）藏02刑初15号刑事判决第一、三项，即被告人邵滨江犯受贿罪，判处有期徒刑三年，并处罚金人民币二十万元；犯滥用职权罪，判处有期徒刑六年。决定执行有期徒刑七年，并处罚金人民币二十万元。查封、扣押的手台、显示器、服务器依法返还西藏自治区人民检察院；查封、扣押的其他未随案移送的财物由查封扣押机关依法处理。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >二、撤销西藏自治区日喀则市中级人民法院（</font>2020）藏02刑初15号刑事判决第二项，即被告人邵滨江违法所得人民币四十五万元及其孳息，依法予以追缴，上缴国库。</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >三、继续追缴上诉人邵滨江违法所得五万元及其孳息，上缴国库。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >本判决为终审判决。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >审　　判　　长　　　赵</font> 青 江</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >审　　判　　员　　　旦　　珍</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >审　　判　　员　　　边巴次仁</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >二〇二〇年十二月二十二日</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >法　官　助　理　　　赵　　华</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;
+text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >书　　记　　员　　　曲</font> 珍</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></div><!--EndFragment--></body></html>

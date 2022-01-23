@@ -1,0 +1,743 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type  content="text/html; charset=gb2312" ><meta name=ProgId  content=Word.Document ><meta name=Generator  content="Microsoft Word 14" ><meta name=Originator  content="Microsoft Word 14" ><title></title><!--[if gte mso 9]><xml><o:DocumentProperties><o:Author>Cloudy</o:Author><o:LastAuthor>Cloudy</o:LastAuthor><o:Revision>1</o:Revision><o:Pages>1</o:Pages><o:Lines>1</o:Lines><o:Paragraphs>1</o:Paragraphs></o:DocumentProperties><o:CustomDocumentProperties><o:KSOProductBuildVer dt:dt="string" >2052-11.1.0.11194</o:KSOProductBuildVer><o:ICV dt:dt="string" >D416BC23ED414A229421CC4AA0FB8BCC</o:ICV></o:CustomDocumentProperties></xml><![endif]--><!--[if gte mso 9]><xml><o:OfficeDocumentSettings></o:OfficeDocumentSettings></xml><![endif]--><!--[if gte mso 9]><xml><w:WordDocument><w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery><w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery><w:DocumentKind>DocumentNotSpecified</w:DocumentKind><w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing><w:View>Web</w:View><w:Compatibility><w:UseFELayout/></w:Compatibility><w:Zoom>0</w:Zoom></w:WordDocument></xml><![endif]--><!--[if gte mso 9]><xml><w:LatentStyles DefLockedState="false"  DefUnhideWhenUsed="true"  DefSemiHidden="true"  DefQFormat="false"  DefPriority="99"  LatentStyleCount="260" >
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Normal" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 9" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 9" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 9" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Normal Indent" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footnote text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="header" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footer" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index heading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="caption" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="table of figures" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="envelope address" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="envelope return" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footnote reference" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation reference" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="line number" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="page number" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="endnote reference" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="endnote text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="table of authorities" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="macro" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toa heading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Title" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Closing" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Signature" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  UnhideWhenUsed="false"  Name="Default Paragraph Font" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Message Header" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Subtitle" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Salutation" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Date" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text First Indent" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text First Indent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Note Heading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Block Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Hyperlink" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="FollowedHyperlink" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Strong" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Emphasis" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Document Map" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Plain Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="E-mail Signature" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Normal (Web)" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Acronym" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Address" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Cite" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Code" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Definition" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Keyboard" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Preformatted" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Sample" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Typewriter" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Variable" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  UnhideWhenUsed="false"  Name="Normal Table" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation subject" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="No List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="1 / a / i" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="1 / 1.1 / 1.1.1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Article / Section" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Simple 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Simple 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Simple 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Classic 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Classic 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Classic 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Classic 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Colorful 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Colorful 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Colorful 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Columns 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table List 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table 3D effects 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table 3D effects 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table 3D effects 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Contemporary" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Elegant" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Professional" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Subtle 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Subtle 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Web 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Web 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Web 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Balloon Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Grid" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Theme" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Placeholder Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="No Spacing" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Paragraph" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Quote" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Intense Quote" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 6" ></w:LsdException>
+</w:LatentStyles></xml><![endif]--><style>
+@font-face{
+font-family:"Times New Roman";
+}
+
+@font-face{
+font-family:"宋体";
+}
+
+@font-face{
+font-family:"Wingdings";
+}
+
+p.MsoNormal{
+mso-style-name:正文;
+mso-style-parent:"";
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+h1{
+mso-style-name:"标题 1";
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-bottom:5.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:24.0000pt;
+mso-font-kerning:22.0000pt;
+}
+
+h2{
+mso-style-name:"标题 2";
+mso-style-noshow:yes;
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-bottom:5.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:18.0000pt;
+}
+
+h3{
+mso-style-name:"标题 3";
+mso-style-noshow:yes;
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-bottom:5.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:13.5000pt;
+}
+
+h4{
+mso-style-name:"标题 4";
+mso-style-noshow:yes;
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-bottom:5.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:12.0000pt;
+}
+
+h5{
+mso-style-name:"标题 5";
+mso-style-noshow:yes;
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-bottom:5.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:10.0000pt;
+}
+
+h6{
+mso-style-name:"标题 6";
+mso-style-noshow:yes;
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-bottom:5.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:7.5000pt;
+}
+
+span.10{
+font-family:'Times New Roman';
+}
+
+p.pre{
+mso-style-name:"HTML 预设格式";
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.p{
+mso-style-name:"普通\(网站\)";
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+span.msoIns{
+mso-style-type:export-only;
+mso-style-name:"";
+text-decoration:underline;
+text-underline:single;
+color:blue;
+}
+
+span.msoDel{
+mso-style-type:export-only;
+mso-style-name:"";
+text-decoration:line-through;
+color:red;
+}
+
+table.MsoNormalTable{
+mso-style-name:普通表格;
+mso-style-parent:"";
+mso-style-noshow:yes;
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt;
+mso-para-margin:0pt;
+mso-para-margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-family:'Times New Roman';
+font-size:10.0000pt;
+mso-ansi-language:#0400;
+mso-fareast-language:#0400;
+mso-bidi-language:#0400;
+}
+@page{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;}@page Section0{
+size:595.3000pt 841.9500pt;
+mso-header-margin:42.5500pt;
+mso-footer-margin:49.6000pt;
+}
+div.Section0{page:Section0;}</style></head><body style="tab-interval:21pt;" ><!--StartFragment--><div class="Section0" ><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >西藏自治区高级人民法院</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >刑事判决书</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（</font>2021）藏刑终23号</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >原公诉机关西藏自治区那曲市人民检察院。</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >上诉人（原审被告人）但鹏，男，汉族，</font>1980年11月1日出生于重庆市长寿区，大专文化，西藏自治区XX县行政审批和便民服务局原局长，住XX县。2020年5月4日因涉嫌犯受贿罪被留置，同年7月31日被刑事拘留，同年8月7日被逮捕。现羁押于西藏自治区那曲市看守所。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >辩护人兰明云，重庆明云律师事务所律师。</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >西藏自治区那曲市中级人民法院审理那曲市人民检察院指控被告人但鹏犯受贿罪、贪污罪，于</font>2021年3月16日作出（2020）藏06刑初9号刑事判决。宣判后，但鹏提出上诉。本院受理后，依法组成合议庭，经过阅卷，讯问上诉人，听取了辩护人和西藏自治区人民检察院的意见，认为本案事实清楚，决定不开庭审理。现已审理终结。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >西藏自治区那曲市中级人民法院经审理查明：</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >一、关于受贿事实</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >被告人但鹏于</font>2014年10月至2016年1月担任XX县住房和城乡建设局副局长、于2016年1月至2019年3月担任交通运输局局长期间，利用职权为他人谋取利益，受贿共计人民币443.7272万元，其中索贿14次、共计人民币146.7272万元。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >二、关于贪污事实</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >2017年，阳某1承建珠确达公路项目期间，但鹏利用职权将XX县交通运输局名下的1台装载机租借给了阳某1。项目结束后，阳某1按但鹏要求将装载机租赁费人民币5.5万元汇入邓某尾号7877的农行卡上，该笔钱未上缴财政。2019年11月，怕阳某1举报，但鹏、邓某与阳某1进行了清算，但鹏将从阳某1处收取的钱，扣除阳某1欠付但鹏家人的钱后，最终退给阳某110万元。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >西藏自治区那曲市中级人民法院认定上述事实的证据，有物证、书证、证人证言、辨认笔录及被告人的供述等。</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >西藏自治区那曲市中级人民法院认为，被告人但鹏作为国家工作人员，利用职权，多次索取他人财物或非法收受他人财物，为他人在工程项目的承接、招标、监理、验收、拨款等方面提供便利，受贿金额达人民币</font>443.7272万元，系数额特别巨大，构成受贿罪。但鹏利用职务上的便利，非法占有XX县交通运输局的机械租赁费用人民币5.5万元，数额较大，构成贪污罪。公诉机关指控的罪名成立，应予支持。但鹏因担心事情败露，为掩饰犯罪而向范某1支付装修费和与阳某1进行清算的行为，依据最高人民法院、最高人民检察院《关于办理受贿刑事案件适用法律若干问题的意见》第九条之规定，不影响受贿罪的认定。公诉机关指控但鹏向阳某1分三次索贿人民币30万元，在案证据能够证明索贿人民币20万元的事实，但对但鹏索取阳某1人民币4万元、6万元的部分，仅有阳某1的证言，无其他证据印证，不认定为索贿。但鹏利用职权非法收受曾某人民币72万元、吕某人民币40万元、彭某人民币80万元、肖某人民币40万元、刘某人民币40万元、黄某人民币10万元、赵某1人民币5万元、阳某1人民币10万元，共计人民币297万元；另通过直接要求或有意为难的方式索取范某1人民币23.7272万元、吴某人民币5万元、肖某人民币30万元、张某1人民币20万元、刘某人民币20万元、窦某人民币10万元、黄某人民币5万元、于某人民币8万元、张某2人民币5万元、阳某1人民币20万元并向范某2索取电费，共计14次、人民币146.7272万元，但鹏多次索贿且向多人索贿，对巴青县交通工程建设领域造成了较为恶劣的影响，依法予以从重处罚；但鹏系被动到案，到案后虽如实交代了调查机关尚未掌握的同种罪行，但庭审时无正当理由推翻原有供述，故不予从轻处罚；但鹏如实交代了赃款的去向并主动退赃人民币300万元，违法所得已全部退缴到位，量刑时予以从轻处罚，但根据犯罪事实、情节、性质，对其从轻处罚的幅度予以从严掌握。结合但鹏的犯罪情节及退赃情况，在法定幅度内确定罚金数额。通过在案证据可以证明，扣押在案的宝马牌汽车虽登记在邓某名下，实际由但鹏购买并占有、支配，用于购买宝马牌汽车的款项包括从肖某处受贿的人民币10万元、从张某1处受贿的人民币10万元及其他受贿款中的21.3991万元，故该宝马牌汽车系但鹏违法所得，应上缴国库，则购车款项共计人民币41.3991万元无需再追缴。但鹏在案发前已将人民币20万元退给范某1、将人民币10万元退给阳某1，则该人民币30万元但鹏未实际取得，不应再向但鹏追缴。但鹏受贿金额为人民币443.7272万元，贪污金额为人民币5.5万元，扣减购买宝马汽车的费用人民币41.3991万元、退给范某1的人民币20万元、退给阳某1的人民币10万元，依法应予追缴的金额为人民币377.8281万元。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >综上，本案事实清楚，证据确实、充分，依照《中华人民共和国刑法》第三百八十二条第一款、第三百八十五条第一款、第四十五条、第四十七条、第六十四条，《最高人民法院、最高人民检察院〈关于办理贪污贿赂刑事案件适用法律若干问题的解释〉》第一条第一款、第三条、第十八条、第十九条，《中华人民共和国监察法》第四十四条第三款，《最高人民法院关于适用〈中华人民共和国刑事诉讼法〉的解释》第四百四十五条之规定，判决：一、被告人但鹏犯受贿罪，判处有期徒刑十二年，并处罚金人民币六十万元；犯贪污罪，判处有期徒刑六个月，并处罚金人民币十万元，决定执行有期徒刑十二年三个月，并处罚金人民币七十万元。二、依法没收被告人但鹏违法所得的宝马牌汽车并上缴国库（已扣押在案）。三、依法没收被告人但鹏违法所得的人民币</font>377.8281万元并上缴国库（人民币110万元已扣押在案，其余人民币267.8281万元已由被告人家属退缴）。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >但鹏上诉提出：</font>1、其本人及家人主动上交退赔款共计人民币410万元，涉案宝马汽车亦被扣押（价值人民币41.3991万元），上述钱款共计人民币451.3991万元，已超过公诉机关指控的犯罪数额，请求退还剩余的合法收入。2、公诉机关指控其向阳某1索贿人民币20万元，其实际已退还阳某1人民币30万元；彭某与其数年未联系，棕色旅行包是由阳某1提上车的；其仅收受曾某人民币20万元；其转给户名为陈某1的银行卡中人民币18.4050万元，用于项目招标工程费，该笔款项，无论是给肖某转还是阳某1转，都是借给他们的，应当认定该笔款项是其向肖某的借款；阳某1给予其的人民币20万元，实际系邓某用来抵扣货款；涉案宝马牌汽车，除肖某支付人民币10万元，张某1支付人民币10万元外，剩余款项系其与他人打牌所赢，不能定性全部用赃款购买。3、欧某的证言不客观、不真实。4、其被纪检监察机关留置后，主动坦白全部罪行，并主动交代其他线索，检举揭发他人的犯罪行为，退还全部赃款。综上，请求对其从轻处罚。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >其辩护人提出：</font>1、但鹏的行为仅构成受贿罪，不构成贪污罪。2、对但鹏的量刑畸重。但鹏是因阳某1检举而被立案，除此之外其他受贿金额系但鹏主动交代，故但鹏具有自首情节；但鹏行为不构成索贿；一审判决认定但鹏的受贿金额过高，其中范某2的人民币20万元是用于装修房屋，并未结算，且该笔款项属于货款；肖某行贿数额应当认定为人民币40万元；阳某1的人民币10万元、20万元均不应计算为行贿数额，因未支付给但鹏；曾某行贿数额应当认定为人民币60万元。3、但鹏检举揭发他人犯罪，具有立功情节。综上，请求判处但鹏有期徒刑十年。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >西藏自治区人民检察院意见：</font>1、一审判决认定的事实清楚，证据确实、充分，定罪准确，量刑适当。审判程序合法。2、但鹏的上诉理由不能成立。但鹏承担刑事责任，除涉案赃款应当退缴外，还应当执行罚金刑，其及家人上缴的退赔资金，除应当依法予以追缴的人民币377.8281万元及宝马牌汽车一辆外，剩余部分应当属于财产刑执行中的罚金刑部分；案发前但鹏已经退还阳某1的人民币30万元，属于但鹏及其亲属为了掩饰但鹏的犯罪行为而退还，不影响但鹏所犯受贿罪的认定；根据在卷证据，能够认定但鹏收受彭某人民币80万元；一审判决认定但鹏收受曾某人民币72万元并无不当。欧某的证言符合证据的“三性要求”，可以作为定案的依据；但鹏转账给陈某1人民币18万余元的行为，不影响但鹏所犯受贿罪的成立及数额的认定；但鹏所提出的阳某1给予其人民币20万元属于偿还但鹏岳母货款的理由不能成立；一审判决追缴涉案宝马牌汽车并无不当；根据在卷证据，能够认定但鹏具有索贿故意；但鹏不具有立功情节；一审判决认定但鹏的行为构成贪污罪并无不当。3、一审判决对于违法所得予以没收不当，应当依法予以追缴。综上，建议驳回上诉，维持原判。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >经审理查明：</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >一、关于受贿事实</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >2014年10月至2016年1月，上诉人但鹏担任西藏自治区XX县住房和城乡建设局副局长；2016年1月至2019年3月，担任XX县交通运输局局长。其间，但鹏利用职务上的便利，为他人谋取利益，受贿共计人民币443.7272万元，其中索贿14次，共计人民币146.7272万元。具体如下： &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（一）</font>2018年，但鹏利用职务上的便利，帮助曾某承接了XX县交通运输局的26个项目的招标代理业务（总投资人民币4亿余元）。曾某2次分别给予但鹏现金人民币24万元、48万元。但鹏予以收受。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >上述事实，有一审开庭审理中经质证确认的银行卡交易明细，中标通知书等书证；证人李某、曾某的证言；辨认笔录等证据证实。上诉人但鹏曾供认。足以认定。</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（二）</font>2018年，但鹏利用职务上的便利，帮助吕某承接了XX县贡日乡热赤雄村至巴益松多公路改建工程。吕某给予但鹏现金人民币40万元。但鹏予以收受。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >上述事实，有一审开庭审理中经质证确认的银行卡交易明细，施工合同，法人授权委托书，记账证明等书证；证人吕某、周某</font>1、周某2、张某3、杨某的证言；辨认笔录等证据证实。上诉人但鹏曾供认。足以认定。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（三）</font>2018年六七月，但鹏利用职务上的便利，帮助彭某承接了S205线至巴青乡曲丹卡村公路改建工程。2018年底，彭某为感谢但鹏在承接项目上的帮助及为承接到更多的工程项目，给予但鹏人民币80万元。但鹏予以收受。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >上述事实，有一审开庭审理中经质证确认的从但鹏住宅中扣押的装有现金的行李包等物证；建设工程施工合同，银行业务收付款回单、情况说明等书证；证人赵某</font>2、沈某、欧某、曾某等的证言；搜查笔录，辨认笔录，指认笔录等证据证实。上诉人但鹏曾供认。足以认定。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（四）</font>2017年7月左右，但鹏要求范某1帮自己装修位于四川省成都市新都区的房屋。范某1为此支付了装修款人民币23.7272万元。2018年8月，但鹏与范某1发生矛盾，为了防止上述事实败露，但鹏退还范某1人民币20万元。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >上述事实，有一审开庭审理中经质证确认的商品房买卖合同及付款凭证，装修结算清单等书证；证人范某</font>1、余某、肖某等的证言；辨认笔录等证据证实。上诉人但鹏曾供认。足以认定。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（五）</font>2018年7月左右，但鹏拒绝为吴某作为实际负责人的XX县G317线至珠确达、勒直根村、夺布村公路工程四标段的项目拨款签字，吴某给予但鹏人民币5万元。但鹏予以收受，并在工程拨款单上签字同意。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >上述事实，有一审开庭审理中经质证确认的中标通知书，施工合同，项目拨款申请表等书证；证人吴某、王某、欧某等的证言；辨认笔录等证据证实。上诉人但鹏曾供认。足以认定。</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（六）但鹏利用职务上的便利，帮助肖某承接了</font>XX县交通运输局的工程项目。2018年，但鹏为向范某1支付房屋装修款，要求肖某提供人民币20万元。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >同年</font>9月，为感谢但鹏在项目承接方面提供帮助，肖某给予但鹏人民币40万元。但鹏予以收受。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >2018年底，但鹏的朋友帮助但鹏垫付购买宝马牌汽车的定金人民币10万元。事后，但鹏要求肖某出资人民币10万元归还但鹏的朋友。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >上述事实，有一审开庭审理中经质证确认的扣押在案的宝马牌汽车等物证；银行卡交易明细，购车合同及付款凭证，中标通知书，施工合同，监理合同，拨款申请表，项目拨款统计表等书证；证人肖某、付某、邓某等的证言；辨认笔录等证据证实。上诉人但鹏曾供认。足以认定。</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（七）</font>2018年10月左右，因但鹏故意拖延为窦某申请项目拨款签字，窦某给予但鹏人民币10万元。但鹏予以收受，并在拨款申请表上签字同意。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >上述事实，有一审开庭审理中经质证确认的施工合同，拨款申请表，项目拨款统计表等书证；证人窦某、欧某等的证言；辨认笔录等证据证实。上诉人但鹏曾供认。足以认定。</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（八）</font>2018年9月左右，因但鹏故意拖延为XX县交通运输局项目承建人黄某的工程拨款单上签字，黄某给予但鹏人民币15万元。但鹏予以收受，并签字同意。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >上述事实，有一审开庭审理中经质证确认的施工合同，统计表，项目拨款申请表等书证；证人黄某、欧某等的证言；辨认笔录等证据证实。上诉人但鹏曾供认。足以认定。</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（九）</font>2018年底，赵某1为了尽快获得所承建的XX县交通运输局的工程项目拨款，给予但鹏人民币5万元，但鹏予以收受。因但鹏对于某所承建的XX县交通运输局的工程项目拨款申请一直有意为难，于某委托赵某1给予但鹏人民币8万元。但鹏予以收受并签字同意。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >上述事实，有一审开庭审理中经质证确认的中标通知书，施工合同，拨款申请表，拨款统计表等书证；证人赵某</font>1、于某、欧某等的证言；辨认笔录等证据证实。上诉人但鹏曾供认。足以认定。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（十）</font>2016年至2018年，张某2承接了XX县交通运输局多个项目的监理业务。2017年、2018年，因但鹏就张某2申请拨付监理费签字一事故意拖延，张某2分两次给予但鹏人民币2万元、3万元。但鹏予以收受并签字同意。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >上述事实，有一审开庭审理中经质证确认的施工合同，建设工程监理合同，拨款申请表，项目拨款统计表等书证；证人张某</font>2、欧某等的证言；辨认笔录等证据证实。上诉人但鹏曾供认。足以认定。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（十一）张某</font>1系S301线至XX县阿秀乡米次卡村公路项目的承建人。2018年10月左右，因但鹏在项目拨款时故意拖延，张某1将自己名下存有人民币10万元的工商银行卡给予但鹏，但鹏将该卡中的人民币10万元以POS机刷卡方式用于支付所购买的宝马牌汽车的部分尾款。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >2019年1月27日，因但鹏在项目拨款时故意拖延，张某1再次向但鹏持有的上述工商银行卡内汇入人民币10万元，但鹏于同年5月26日将上述人民币10万元套现。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >上述事实，有一审开庭审理中经质证确认的扣押的宝马牌汽车等物证；银行卡交易明细，购车合同及付款凭证，施工合同，拨款申请表，拨款统计表等书证；证人张某</font>1、邓某、欧某、陈某2等的证言；辨认笔录等证据证实。上诉人但鹏曾供认。足以认定。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（十二）刘某承接了</font>XX县交通运输局的多个项目。2018年，因验收和拨款问题，刘某找到但鹏，但鹏故意拖延。刘某给予但鹏人民币20万元。但鹏予以收受。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >而后，刘某为获得</font>XX县交通运输局的工程项目，给予但鹏人民币40万元。但鹏予以收受，并帮助刘某承接了相关工程项目。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >上述事实，有一审开庭审理中经质证确认的西藏自治区那曲地区交通运输局批复文件，施工合同，拨款申请表，项目拨款统计表等书证；证人刘某、欧某等的证言；辨认笔录等证据证实。上诉人但鹏曾供认。足以认定。</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（十三）</font>2015年，但鹏利用职务上的便利，给阳某1介绍了多个工程项目，阳某1拿到项目的工程款后，先后两次给予但鹏人民币共计10万元。但鹏予以收受。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >2016年，但鹏以介绍公路项目为由，向阳某1索取人民币20万元。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >2019年11月，因害怕阳某1举报，但鹏与阳某1进行所谓结算。但鹏将从阳某1处收取的钱，扣除阳某1欠付但鹏家人的钱后，最终退还阳某1人民币10万元。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >上述事实，有一审开庭审理中经质证确认的银行卡交易明细，会议纪要，施工合同，验收证明，拨款申请表，支票存根，结算业务申请书，记账凭证等书证；证人阳某</font>1、阳某2、邓某等的证言；辨认笔录等证据证实。上诉人但鹏曾供认。足以认定。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >二、关于贪污事实</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >2017年，阳某1承建珠确达公路项目。但鹏利用职务上的便利，将XX县交通运输局的1台装载机租赁给阳某1使用。项目结束后，阳某1按但鹏要求，将租赁费人民币5.5万元汇入但鹏岳母邓某的银行卡上，未上缴财政。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >案发后，办案机关依法扣押但鹏的受贿款人民币</font>110万元及用受贿款购买的宝马牌汽车1辆。但鹏亲属退缴人民币300万元。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >上述事实，有一审开庭审理中经质证确认的银行卡交易明细，情况说明，缴款书，施工合同，拨款申请表，项目拨款统计表等书证；证人阳某</font>1、邓某等的证言；辨认笔录等证据证实。上诉人但鹏曾供认。足以认定。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >综合考虑上诉人但鹏的上诉理由及辩护人的辩护意见、西藏自治区人民检察院的意见及一、二审查明的事实和证据，根据相关法律规定，评判如下：</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >1、关于但鹏上诉提出的其本人及家人主动上交退赔款共计人民币410万元，涉案宝马汽车亦被扣押（价值人民币41.3991万元），上述钱款共计人民币451.3991万元，已超过公诉机关指控的犯罪数额，请求退还剩余退赔款的上诉理由。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >经查，案发后，办案机关依法扣押但鹏的受贿款人民币</font>110万元及用受贿款购买的宝马牌汽车1辆。但鹏亲属代但鹏退缴人民币300万元。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >刑法第六十四条规定，犯罪分子违法所得的一切财物，应当予以追缴或者责令退赔；对被害人的合法财产，应当及时返还；违禁品和供犯罪所用的本人财物，应当予以没收。没收的财物和罚金，一律上缴国库，不得挪用和自行处理。</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >但鹏的违法所得为人民币</font>377.8281万元及宝马牌汽车一辆，对于上述财物，应当依法予以追缴并上缴国库。上述财物中，人民币110万元及宝马牌汽车一辆，已扣押在案；其余人民币267.8281万元已由但鹏亲属代为退缴。但鹏亲属实际代为退缴的金额为人民币300万元，扣除追缴违法所得后尚剩余人民币32.1719万元，对于该部分人民币32.1719万元，一审判决实际并未予以处理。虽然一审判处但鹏罚金人民币70万元，但扣除追缴违法所得后剩余的人民币32.1719万元，系但鹏亲属代为退缴，但鹏亲属亦未明确同意将该部分款项作为但鹏的罚金予以缴纳，但鹏则明确要求将上述款项退还。因此，在上述情况下，将一审实际未予以处理的人民币32.1719万元，在审判阶段直接作为罚金执行，没有相关法律依据。因此，对于上述人民币32.1719万元，应当返还但鹏亲属。当然，上述人民币32.1719万元，是否能够作为但鹏的罚金予以执行，可以在执行阶段，根据具体情况，依法予以处理。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >综上，对于上述上诉理由，本院予以采纳。</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >2、关于但鹏上诉提出的公诉机关指控其向阳某1索贿人民币20万元，其实际已退还阳某1人民币30万元；彭某与其数年未联系，棕色旅行包是由阳某1提上车的；其仅收受曾某人民币20万元；其转给户名为陈某1的银行卡中人民币18.4050万元，用于项目招标工程费，该笔款项，无论是给肖某转还是阳某1转，都是借给他们的，应当认定该笔款项是其向肖某的借款；阳某1给予其的人民币20万元，实际系邓某用来抵扣货款；涉案宝马汽车，除肖某支付人民币10万元，张某1支付人民币10万元外，剩余款项系其与他人打牌所赢，不能定性全部用赃款购买的上诉理由；及其辩护人提出的一审判决认定但鹏的受贿金额过高，其中范某2的20万元是用于装修房屋，并未结算，且该笔款项属于货款；肖某行贿数额应当认定为40万元；阳某1的10万元、20万元均不应计算为行贿数额，因未支付给但鹏；曾某行贿数额应当认定为60万元；但鹏的行为不构成索贿的辩护意见。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >经查，认定但鹏收受阳某</font>1人民币10万元，索贿人民币20万元的事实清楚，不但有阳某1、邓某等的证言证实，并有相关书证等证据证实，足以认定。但鹏因担心罪行败露，为掩饰犯罪而与阳某1进行所谓清算的行为，不影响其所犯受贿罪的成立。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >但鹏收受曾某人民币</font>72万元的事实清楚，不但有李某、曾某的证言证实，并有相关书证等证据证实。但鹏的供述与上述证据亦可以相互印证。足以认定。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >但鹏收受彭某人民币</font>80万元的事实，不但有证人沈某、欧某、曾某、熊某等的证言证实，且有建筑工程施工合同等证据佐证，同时有证人赵某2等的证言证实，但鹏亦曾供认，该起事实亦系但鹏主动供述。足以认定。且事实清楚，证据确实、充分。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >但鹏收受肖某人民币</font>70万元，其中索贿人民币30万元的事实，不但有肖某、付某等的证言证实，并有购车合同及付款凭证等证据佐证，但鹏亦曾供认。足以认定。在卷证据不足以认定但鹏曾借给肖某钱款。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >一审认定涉案宝马牌汽车系但鹏用受贿所得购买，并无不当。该车是否登记在他人名下，不影响但鹏所犯受贿罪的成立。</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >但鹏要求范某</font>2帮助其装修房屋，范某2为此支付装修款23万余元的事实，不但有范某2的证言证实，还有余某的证言、装修结算清单佐证，但鹏亦曾供认。足以认定。但鹏因担心罪行败露，为掩饰犯罪而退还范某2人民币20万元的行为，不影响但鹏所犯受贿罪的成立。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >根据相关证言及在卷其他证据，可以认定但鹏直接索取或者通过在拨款签字方面故意拖延、为难等暗示的方式索取贿赂，一审判决认定但鹏索贿，并无不当。</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >综上，一审判决认定但鹏受贿，并存在索贿行为的事实清楚，证据确实、充分。对于上述上诉理由及辩护意见，本院不予采纳。</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >3、关于但鹏上诉提出的欧某的证言不客观、不真实的上诉理由。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >经查，欧某的证言系合法取得，并经庭审质证。特别需要强调的是，欧某的证言，与在卷其他证据能够相互印证。符合证据的全部特性，客观、真实，应当作为定案的依据。</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >综上，对于上述上诉理由，本院不予采纳。</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >4、关于但鹏上诉提出的其被纪检监察机关留置后，主动坦白全部罪行，并主动交代其他线索，检举揭发他人的犯罪行为，退还全部赃款，请求对其从轻处罚的上诉理由；及其辩护人提出的但鹏因阳某1检举而被立案，除此之外其他受贿金额系但鹏主动交代，但鹏具有自首情节；但鹏检举揭发他人犯罪，具有立功情节；对但鹏的量刑畸重，请求判处但鹏有期徒刑十年的辩护意见。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >经查，但鹏被那曲市监察委员会留置后，虽如实交代了调查机关尚未掌握的多个同种罪行，如收受彭某人民币</font>80万元等，但该情况不属于法律及司法解释规定的自首。同时，一审庭审时，但鹏无正当理由推翻原有供述，认罪态度不好，一审判决综合考虑上述情况，对但鹏不予从轻处罚，并无不当。一审期间，但鹏亲属代其退缴全部违法所得，一审考虑到违法所得已全部退缴，量刑时已予以从轻处罚，并根据本案的犯罪事实、情节、性质，对其从轻处罚幅度予以从严掌握，亦并无不当。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >但鹏被留置后，虽然提出了检举，但部分检举内容，不属于明确的犯罪行为，亦没有明确犯罪事实，内容笼统；部分检举内容，虽系犯罪行为，但内容笼统；均不符合《最高人民法院关于处理自首和立功若干具体问题的意见》对立功线索的起码要求。部分检举内容，虽然内容具体，指向明确，符合立功线索的形式要求，但相关部门已出具书面材料明确反映，但鹏不具有立功情节。</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >综上，一审判决对于但鹏的量刑适当。对于上述上诉理由及辩护意见，本院不予采纳。</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >5、关于但鹏的辩护人提出，但鹏的行为不构成贪污罪的辩护意见。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >经查，阳某</font>1的证言、但鹏的供述相互印证，可以认定但鹏将巴青县交通运输局所有的装载机租赁给阳某1使用，阳某1支付给但鹏的是装载机的租赁费，并非行贿款。但鹏还明确供述，在阳某1说要结算租赁费时，但鹏将其岳母的卡号提供给阳某1，上述供述与阳某1的证言、银行卡交易明细等证据相互印证。装载机系巴青县交通运输局所有，租赁费亦应当归巴青县交通运输局所有，但鹏利用职务上的便利，非法占有应当归巴青县交通运输局所有的装载机租赁费，其行为构成贪污罪。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >综上，一审判决认定但鹏的上述行为构成贪污罪，定罪准确。对于上述上诉理由及辩护意见，本院不予采纳。</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >6、（1）关于西藏自治区人民检察院意见提出的案发前但鹏已退还阳某1的人民币30万元，属于但鹏及其亲属为了掩饰但鹏的犯罪行为而退还，不影响但鹏所犯受贿罪的认定；根据在卷证据，能够认定但鹏收受彭某人民币80万元；一审判决认定但鹏收受曾某人民币72万元并无不当。欧某的证言符合证据的“三性要求”，可以作为定案的依据；但鹏转账给陈某1人民币18万余元的行为，不影响但鹏所犯受贿罪的成立及数额的认定；但鹏所提出的阳某1给予其人民币20万元属于偿还但鹏岳母货款的理由不能成立；一审判决追缴涉案宝马牌汽车并无不当；根据在卷证据，能够认定但鹏具有索贿故意；但鹏不具有立功情节；一审判决认定但鹏的行为构成贪污罪并无不当；一审判决认定的事实清楚，证据确实、充分，定罪准确，量刑适当。审判程序合法的意见。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >经查，上述意见符合本案实际情况，具有事实、证据和法律依据，本院予以采纳。</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >（</font>2）关于西藏自治区人民检察院提出的但鹏承担刑事责任，除涉案赃款应当退缴外，还应当执行罚金刑，其及家人上缴的退赔资金，除应当依法予以追缴的人民币377.8281万元及宝马牌汽车1辆外，剩余部分应当属于财产刑执行中的罚金刑部分；一审判决对于违法所得予以没收不当，应当依法予以追缴；建议驳回上诉，维持原判的意见。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >经查，刑法第六十四条规定，犯罪分子违法所得的一切财物，应当予以追缴或者责令退赔；对被害人的合法财产，应当及时返还；违禁品和供犯罪所用的本人财物，应当予以没收。没收的财物和罚金，一律上缴国库，不得挪用和自行处理。</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >一审判决认定，但鹏的违法所得为人民币</font>377.8281万元及宝马牌汽车1辆，上述违法所得，均应当依法予以追缴。一审判决将上述违法所得予以没收，适用法律错误，应当依法予以纠正。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >至于但鹏亲属代为退缴的款项中，扣除但鹏的违法所得后剩余的部分，如前所述，一审对该部分款项实际未予以处理，在审判阶段直接作为罚金执行，没有相关法律依据。对于该部分款项，是否作为但鹏的罚金予以执行，可以在执行阶段，根据具体情况，依法予以处理。</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >综上，对于上述意见，本院予以部分采纳。</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >本院认为，上诉人但鹏作为国家工作人员，利用职务上的便利，多次索取他人财物或者非法收受他人财物，为他人在工程项目的承接、招标、监理、验收、拨款等方面提供便利，数额特别巨大，其行为已构成受贿罪；但鹏利用职务上的便利，非法占有西藏自治区巴青县交通运输局的机械租赁费用，数额较大，其行为已构成贪污罪，应依法予以并罚。</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >一审判决认定但鹏受贿共计人民币</font>443.7272万元，其中多次索贿共计人民币146.7272万元；认定但鹏贪污共计人民币5.5万元，认定适当。一审判决认为但鹏多次索贿且向多人索贿，对西藏自治区XX县交通工程建设领域造成了较为恶劣的影响，依法予以从重处罚，符合案件客观情况，处理适当。但鹏被西藏自治区那曲市监察委员会采取留置措施后，虽如实供述了调查机关未掌握的同种罪行，但一审庭审时无正当理由推翻原有供述，认罪态度不好，一审判决对其不予从轻处罚正确。但鹏如实供述了赃款去向并主动退赃，违法所得已全部退缴，一审对其予以从轻处罚，并根据其犯罪事实、情节、性质，对其从轻处罚幅度从严掌握，处理恰当。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >案发后，办案机关依法扣押但鹏的受贿款人民币</font>110万元及用受贿款购买的宝马牌汽车1辆。但鹏亲属退缴人民币300万元。刑法第六十四条规定，犯罪分子违法所得的一切财物，应当予以追缴或者责令退赔；对被害人的合法财产，应当及时返还；违禁品和供犯罪所用的本人财物，应当予以没收。没收的财物和罚金，一律上缴国库，不得挪用和自行处理。因此，对于办案机关依法扣押的但鹏用受贿款购买的宝马牌汽车1辆，系违法所得，故应当依法予以追缴。一审判决对上述汽车予以没收，适用法律错误，应当依法予以纠正。除上述汽车外，但鹏的违法所得人民币377.8281万元，亦应当依法予以追缴。一审判决对上述人民币377.8281万元予以没收，适用法律错误，应当依法予以纠正。上述款项中，人民币110万元已扣押在案，其余人民币267.8281万元已由但鹏的亲属代为退缴。在卷证据反映，但鹏亲属代为退缴共计人民币300万元，故对于超出但鹏违法所得部分的人民币32.1719万元，应当返还但鹏亲属。一审对该部分款项未予处理不当，应当依法予以纠正。当然，上述人民币32.1719万元，是否能够作为但鹏的罚金予以执行，可以在执行阶段，根据具体情况，依法予以处理。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >综上，一审判决认定的事实清楚，证据确实、充分，定罪准确，量刑适当。审判程序合法。但对涉案财物的处理不当，适用法律错误。依照《中华人民共和国刑法》第三百八十二条第一款、第三百八十三条第一款第（一）项、第三百八十五条第一款、第三百八十六条、第四十五条、第四十七条、第六十四条、《最高人民法院、最高人民检察院〈关于办理贪污贿赂刑事案件适用法律若干问题的解释〉》第一条第一款、第三条、第十八条、第十九条，《中华人民共和国监察法》第四十四条第三款、《中华人民共和国刑事诉讼法》第二百三十六条第一款第（一）（二）项的规定，判决如下：</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >一、维持西藏自治区那曲市中级人民法院（</font>2020）藏06刑初9号刑事判决的第一项，即被告人但鹏犯受贿罪，判处有期徒刑十二年，并处罚金人民币六十万元；犯贪污罪，判处有期徒刑六个月，并处罚金人民币十万元，决定执行有期徒刑十二年三个月，并处罚金人民币七十万元。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >二、撤销西藏自治区那曲市中级人民法院（</font>2020）藏06刑初9号刑事判决的第二、三项，即依法没收被告人但鹏违法所得的宝马牌汽车并上缴国库（已扣押在案）；依法没收被告人但鹏违法所得的人民币377.8281万元并上缴国库（人民币110万元已扣押在案，其余人民币267.8281万元已由被告人家属退缴）。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >三、依法对上诉人但鹏违法所得的宝马牌汽车予以追缴，上缴国库。</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >四、依法对上诉人但鹏违法所得的人民币</font>377.8281万元予以追缴，上缴国库（其中，人民币110万元已扣押在案，其余人民币267.8281万元已由但鹏亲属退缴）。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >五、上诉人但鹏亲属代为退缴的人民币</font>300万元，扣除追缴违法所得后剩余的人民币32.1719万元，返还给但鹏亲属。 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >本判决为终审判决。</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >审判长</font> &nbsp;&nbsp;&nbsp;贾伟</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >审判员</font> &nbsp;&nbsp;&nbsp;边巴次仁</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >审判员</font> &nbsp;&nbsp;&nbsp;次登罗布</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >二〇二一年九月十八日</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >法官助理</font> &nbsp;&nbsp;&nbsp;王晓俊</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p><p class=p  style="margin-top:0.0000pt;margin-bottom:0.0000pt;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >书记员</font> &nbsp;&nbsp;&nbsp;仓拉</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></div><!--EndFragment--></body></html>

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>文书爬取</title>
+</head>
+<body>
+<!--页面标题-->
+<h2>爬虫结果展示</h2>
+<strong>爬取文书存放在项目的static/Downloads目录下，文书名称如下：</strong>
+<br>
+{% for title in titles %}
+    <p>{{ title }}</p>
+{% endfor %}
+<br>
+<strong>若未显示名称，则已达威科先行每日最大浏览量，请次日再来</strong>
+</body>
+</html>

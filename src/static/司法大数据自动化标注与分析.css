@@ -1,0 +1,302 @@
+/*页面标题h style*/
+h1{
+    text-align: center;
+}
+
+/*正文style*/
+#mainDiv {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+/*爬虫按钮style*/
+#spiderButton {
+    background-color: lightgrey;
+    color: black;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font: 400 15px/23px "微软雅黑";
+}
+/*鼠标选按钮时颜色加深*/
+#spiderButton:hover {
+    background-color: silver;
+}
+
+/*爬取数量style*/
+input[type=text] {
+  width: 100%;
+  height: 31.5px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+    background-color: #f2f2f2;
+}
+/*鼠标选定时变灰*/
+input[type=text]:focus {
+  background-color: lightgrey;
+}
+
+/*上传按钮style*/
+#fileDiv {
+    width: 100%;
+    position: relative;
+    background: #4CAF50;
+    color: white;
+    padding:  14px 0;
+    margin: 8px 0;
+    border: none;
+    height: 55px;
+    font: 400 15px/23px "微软雅黑";
+    text-align: center;
+    cursor: pointer;
+    border-radius: 4px;
+    overflow: hidden;
+    display: inline-block;
+    text-decoration: none;
+}
+#fileDiv #uploadButton {
+    position: absolute;
+    font-size: 100px;
+    height: 77px;
+    right: 0;
+    top: 0px;
+    opacity: 0;
+    cursor: pointer;
+}
+#fileDiv:hover {
+    background: #45a049;
+}
+
+/*案件文本域style*/
+textarea {
+    width: 100%;
+    height: 400px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    resize: none;
+}
+
+
+
+/*分词按钮style*/
+#jiebaButton {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font: 400 15px/23px "微软雅黑";
+}
+/*鼠标选按钮时绿色加深*/
+#jiebaButton:hover {
+    background-color: #45a049;
+}
+
+/*保存按钮style*/
+#saveButton {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font: 400 15px/23px "微软雅黑";
+}
+/*鼠标选按钮时绿色加深*/
+#saveButton:hover {
+    background-color: #45a049;
+}
+
+#clearContentButton{
+    width: 49%;
+    background-color: lightgrey;
+    color: black;
+    padding: 14px 0;
+    margin: 8px 0px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: left;
+}
+#clearContentButton:hover {
+    background: silver;
+}
+
+#clearMarkButton{
+    width: 49%;
+    background-color: lightgray;
+    color: black;
+    padding: 14px 0;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: right;
+}
+#clearMarkButton:hover{
+    background: silver;
+}
+
+
+/*信息输入域style*/
+.tab-wrap {
+    transition: 0.3s box-shadow ease;
+    border-radius: 6px;
+    max-width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    list-style: none;
+    background-color: #fff;
+    margin: 40px 0;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+}
+.tab-wrap:hover {
+    box-shadow: 0 12px 23px rgba(0, 0, 0, 0.23), 0 10px 10px rgba(0, 0, 0, 0.19);
+}
+
+.tab__content {
+    padding: 10px 25px;
+    background-color: transparent;
+    position: absolute;
+    width: 100%;
+    z-index: -1;
+    opacity: 0;
+    left: 0;
+    transform: translateY(-3px);
+    border-radius: 6px;
+}
+.tab {
+    display: none;
+}
+.tab:checked:nth-of-type(1) ~ .tab__content:nth-of-type(1) {
+    opacity: 1;
+    transition: 0.5s opacity ease-in, 0.8s transform ease;
+    position: relative;
+    top: 0;
+    z-index: 100;
+    transform: translateY(0px);
+    text-shadow: 0 0 0;
+}
+.tab:checked:nth-of-type(2) ~ .tab__content:nth-of-type(2) {
+    opacity: 1;
+    transition: 0.5s opacity ease-in, 0.8s transform ease;
+    position: relative;
+    top: 0;
+    z-index: 100;
+    transform: translateY(0px);
+    text-shadow: 0 0 0;
+}
+.tab:checked:nth-of-type(3) ~ .tab__content:nth-of-type(3) {
+    opacity: 1;
+    transition: 0.5s opacity ease-in, 0.8s transform ease;
+    position: relative;
+    top: 0;
+    z-index: 100;
+    transform: translateY(0px);
+    text-shadow: 0 0 0;
+}
+.tab:checked:nth-of-type(4) ~ .tab__content:nth-of-type(4) {
+    opacity: 1;
+    transition: 0.5s opacity ease-in, 0.8s transform ease;
+    position: relative;
+    top: 0;
+    z-index: 100;
+    transform: translateY(0px);
+    text-shadow: 0 0 0;
+}
+.tab:checked:nth-of-type(5) ~ .tab__content:nth-of-type(5) {
+     opacity: 1;
+     transition: 0.5s opacity ease-in, 0.8s transform ease;
+     position: relative;
+     top: 0;
+     z-index: 100;
+     transform: translateY(0px);
+     text-shadow: 0 0 0;
+}
+.tab:checked:nth-of-type(6) ~ .tab__content:nth-of-type(6) {
+      opacity: 1;
+      transition: 0.5s opacity ease-in, 0.8s transform ease;
+      position: relative;
+      top: 0;
+      z-index: 100;
+      transform: translateY(0px);
+      text-shadow: 0 0 0;
+}
+.tab:checked:nth-of-type(7) ~ .tab__content:nth-of-type(7) {
+    opacity: 1;
+    transition: 0.5s opacity ease-in, 0.8s transform ease;
+    position: relative;
+    top: 0;
+    z-index: 100;
+    transform: translateY(0px);
+    text-shadow: 0 0 0;
+}
+.tab:first-of-type:not(:last-of-type) + label {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.tab:not(:first-of-type):not(:last-of-type) + label {
+    border-radius: 0;
+}
+.tab:last-of-type:not(:first-of-type) + label {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+.tab:checked + label {
+    background-color: #fff;
+    box-shadow: 0 -1px 0 #fff inset;
+    cursor: default;
+}
+.tab:checked + label:hover {
+    box-shadow: 0 -1px 0 #fff inset;
+    background-color: #fff;
+}
+.tab + label {
+    box-shadow: 0 -1px 0 #eee inset;
+    border-radius: 6px 6px 0 0;
+    cursor: pointer;
+    display: block;
+    text-decoration: none;
+    color: #333;
+    flex-grow: 3;
+    text-align: center;
+    background-color: #f2f2f2;
+    user-select: none;
+    text-align: center;
+    transition: 0.3s background-color ease, 0.3s box-shadow ease;
+    height: 50px;
+    box-sizing: border-box;
+    padding: 15px;
+}
+.tab + label:hover {
+    background-color: #f9f9f9;
+    box-shadow: 0 1px 0 #f4f4f4 inset;
+}
+
+/*复选框style*/
+.checkbox-inline1 {
+    width: 19%;
+    display: inline-block;
+    padding-left: 0px;
+    margin-bottom: 16px;
+    font-weight: normal;
+    vertical-align: top;
+    cursor: pointer;
+}
+.checkbox-inline1 + .checkbox-inline1 {
+    margin-top: 0px;
+    margin-left: 0px;
+}
+

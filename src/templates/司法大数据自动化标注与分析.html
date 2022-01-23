@@ -1,0 +1,584 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>司法大数据自动化标注与分析</title>
+    <link rel="stylesheet" type="text/css" href="../static/司法大数据自动化标注与分析.css">
+    <link href="../static/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="../static/bootstrap/css/bootstrap-datetimepicker.min.css" rel="stylesheet" media="screen">
+    <script src="../static/司法大数据自动化标注与分析.js"></script>
+
+</head>
+
+
+<body>
+
+<!--页面标题-->
+<h1>司法大数据标注与分析</h1>
+
+<!--标题下正文-->
+<div id="mainDiv">
+
+
+<div class="container">
+    <form action="/文书爬取" method="post" class="form-horizontal"  role="form">
+        <div class="row">
+            <label for="dtp_input1" class="col-md-1 control-label">开始日期</label>
+            <div class="input-group date form_date col-md-3" id="begindate" data-date="" data-date-format="yyyy.MM.dd" data-link-field="dtp_input1" data-link-format="yyyy-mm-dd">
+                <input class="form-control" name="beginDate" size="16" type="text" id="beginText" value="" readonly>
+                <span class="input-group-addon"><span class="glyphicon glyphicon-remove"></span></span>
+                <span class="input-group-addon"><span class="glyphicon glyphicon-calendar"></span></span>
+            </div>
+            <input type="hidden" id="dtp_input1" value="" />
+
+            <label for="dtp_input2" class="col-md-1 control-label">结束日期</label>
+            <div class="input-group date form_date col-md-3" id="enddate" data-date="" data-date-format="yyyy.MM.dd" data-link-field="dtp_input2" data-link-format="yyyy-mm-dd">
+                <input class="form-control" name="endDate" size="16" type="text" id="endText" value="" readonly>
+                <span class="input-group-addon"><span class="glyphicon glyphicon-remove"></span></span>
+                <span class="input-group-addon"><span class="glyphicon glyphicon-calendar"></span></span>
+            </div>
+            <input type="hidden" id="dtp_input2" value="" />
+
+            <label for="num" class="col-md-1 control-label">爬取数量</label>
+            <div class="input-group col-md-2">
+            <input type="text" id="num" name="num" class="text" placeholder="默认为10">
+            </div>
+
+            <div class="col-md-1 control-label">
+                <input type="submit" id="spiderButton" value="爬取案件" />
+            </div>
+        </div>
+    </form>
+</div>
+<script type="text/javascript" src="../static/jquery/jquery-1.8.3.min.js" charset="UTF-8"></script>
+<script type="text/javascript" src="../static/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="../static/js/bootstrap-datetimepicker.js" charset="UTF-8"></script>
+<script type="text/javascript" src="../static/js/locales/bootstrap-datetimepicker.zh-CN.js" charset="UTF-8"></script>
+<script type="text/javascript">
+
+	$('.form_date').datetimepicker({
+        language:  'zh-CN',
+        weekStart: 1,
+        todayBtn:  1,
+		autoclose: 1,
+		todayHighlight: 1,
+		startView: 2,
+		minView: 2,
+		forceParse: 0
+    }).on('changeDate', function (e) {
+        var BeginTime = $("#beginText").val();
+        $("#enddate").datetimepicker("setStartDate", BeginTime);　　//设置结束时间只能从开始时间选择起
+    });;
+
+</script>
+
+    <!--上传文件按钮-->
+    <!-- 用一个div来当作美化的上传按钮，file按钮被透明化 -->
+    <div id="fileDiv">
+        上传案例文件
+        <input type="file" id="uploadButton" name="uploadButton" accept="text/plain">
+    </div>
+
+    <form action="" method="post">
+        <!--案件文本域-->
+        <fieldset>
+            <legend>案件文本：</legend> <!--域名-->
+            <textarea name="textArea" id="textArea">{{ text }}</textarea>
+        </fieldset>
+
+        <!--开始分词按钮-->
+        <input type="submit" id="jiebaButton" value="开始分词" />
+    </form>
+    <form action="" method="get">
+        <!--清空案例文本按钮-->
+        <input type="submit" id="clearContentButton" value="清空案例文本">
+    </form>
+    <!--清空标注按钮-->
+    <input type="button" id="clearMarkButton" value="清空所有标注" onclick="clearMark()">
+
+    <!--信息标注域-->
+    <fieldset>
+        <legend>信息标注：</legend> <!--域名-->
+
+
+        <div class="tab-wrap" id="jiebas">
+
+            <!-- active tab on page load gets checked attribute -->
+            <input type="radio" id="party" name="Mark" class="tab" checked>
+            <label for="party">当事人</label>
+
+            <input type="radio" id="sex" name="Mark" class="tab">
+            <label for="sex">性别</label>
+
+            <input type="radio" id="nationality" name="Mark" class="tab">
+            <label for="nationality">民族</label>
+
+            <input type="radio" id="birthPlace" name="Mark" class="tab">
+            <label for="birthPlace">出生地</label>
+
+            <input type="radio" id="education" name="Mark" class="tab">
+            <label for="education">文化水平</label>
+
+            <input type="radio" id="cause" name="Mark" class="tab">
+            <label for="cause">案由</label>
+
+            <input type="radio" id="court" name="Mark" class="tab">
+            <label for="court">相关法院</label>
+
+            <div class="tab__content">
+                <div>
+                    <h3>不涉及地点名词</h3>
+                    {% for jieba1 in jieba1s %}
+                       <label class="checkbox-inline1">
+                           <input type="checkbox">{{ jieba1 }}
+                       </label>
+                    {% endfor %}
+                </div>
+
+                <div>
+                    <h3>涉及地点名词</h3>
+                    {% for jieba2 in jieba2s %}
+                       <label class="checkbox-inline1">
+                           <input type="checkbox">{{ jieba2 }}
+                       </label>
+                    {% endfor %}
+                </div>
+
+                <div>
+                    <h3>案由</h3>
+                    {% for jieba3 in jieba3s %}
+                       <label class="checkbox-inline1">
+                           <input type="checkbox">{{ jieba3 }}
+                       </label>
+                    {% endfor %}
+                </div>
+
+                <div>
+                    <h3>形容词</h3>
+                    {% for jieba4 in jieba4s %}
+                       <label class="checkbox-inline1">
+                           <input type="checkbox">{{ jieba4 }}
+                       </label>
+                    {% endfor %}
+                </div>
+            </div>
+
+            <div class="tab__content">
+                <div>
+                    <h3>不涉及地点名词</h3>
+                    {% for jieba1 in jieba1s %}
+                       <label class="checkbox-inline1">
+                           <input type="checkbox">{{ jieba1 }}
+                       </label>
+                    {% endfor %}
+                </div>
+
+                <div>
+                    <h3>涉及地点名词</h3>
+                    {% for jieba2 in jieba2s %}
+                       <label class="checkbox-inline1">
+                           <input type="checkbox">{{ jieba2 }}
+                       </label>
+                    {% endfor %}
+                </div>
+
+                <div>
+                    <h3>案由</h3>
+                    {% for jieba3 in jieba3s %}
+                       <label class="checkbox-inline1">
+                           <input type="checkbox">{{ jieba3 }}
+                       </label>
+                    {% endfor %}
+                </div>
+
+                <div>
+                    <h3>形容词</h3>
+                    {% for jieba4 in jieba4s %}
+                       <label class="checkbox-inline1">
+                           <input type="checkbox">{{ jieba4 }}
+                       </label>
+                    {% endfor %}
+                </div>
+            </div>
+
+            <div class="tab__content">
+                <div>
+                    <h3>不涉及地点名词</h3>
+                    {% for jieba1 in jieba1s %}
+                       <label class="checkbox-inline1">
+                           <input type="checkbox">{{ jieba1 }}
+                       </label>
+                    {% endfor %}
+                </div>
+
+                <div>
+                    <h3>涉及地点名词</h3>
+                    {% for jieba2 in jieba2s %}
+                       <label class="checkbox-inline1">
+                           <input type="checkbox">{{ jieba2 }}
+                       </label>
+                    {% endfor %}
+                </div>
+
+                <div>
+                    <h3>案由</h3>
+                    {% for jieba3 in jieba3s %}
+                       <label class="checkbox-inline1">
+                           <input type="checkbox">{{ jieba3 }}
+                       </label>
+                    {% endfor %}
+                </div>
+
+                <div>
+                    <h3>形容词</h3>
+                    {% for jieba4 in jieba4s %}
+                       <label class="checkbox-inline1">
+                           <input type="checkbox">{{ jieba4 }}
+                       </label>
+                    {% endfor %}
+                </div>
+            </div>
+
+            <div class="tab__content">
+                <div>
+                    <h3>不涉及地点名词</h3>
+                    {% for jieba1 in jieba1s %}
+                       <label class="checkbox-inline1">
+                           <input type="checkbox">{{ jieba1 }}
+                       </label>
+                    {% endfor %}
+                </div>
+
+                <div>
+                    <h3>涉及地点名词</h3>
+                    {% for jieba2 in jieba2s %}
+                       <label class="checkbox-inline1">
+                           <input type="checkbox">{{ jieba2 }}
+                       </label>
+                    {% endfor %}
+                </div>
+
+                <div>
+                    <h3>案由</h3>
+                    {% for jieba3 in jieba3s %}
+                       <label class="checkbox-inline1">
+                           <input type="checkbox">{{ jieba3 }}
+                       </label>
+                    {% endfor %}
+                </div>
+
+                <div>
+                    <h3>形容词</h3>
+                    {% for jieba4 in jieba4s %}
+                       <label class="checkbox-inline1">
+                           <input type="checkbox">{{ jieba4 }}
+                       </label>
+                    {% endfor %}
+                </div>
+            </div>
+
+            <div class="tab__content">
+                <div>
+                    <h3>不涉及地点名词</h3>
+                    {% for jieba1 in jieba1s %}
+                       <label class="checkbox-inline1">
+                           <input type="checkbox">{{ jieba1 }}
+                       </label>
+                    {% endfor %}
+                </div>
+
+                <div>
+                    <h3>涉及地点名词</h3>
+                    {% for jieba2 in jieba2s %}
+                       <label class="checkbox-inline1">
+                           <input type="checkbox">{{ jieba2 }}
+                       </label>
+                    {% endfor %}
+                </div>
+
+                <div>
+                    <h3>案由</h3>
+                    {% for jieba3 in jieba3s %}
+                       <label class="checkbox-inline1">
+                           <input type="checkbox">{{ jieba3 }}
+                       </label>
+                    {% endfor %}
+                </div>
+
+                <div>
+                    <h3>形容词</h3>
+                    {% for jieba4 in jieba4s %}
+                       <label class="checkbox-inline1">
+                           <input type="checkbox">{{ jieba4 }}
+                       </label>
+                    {% endfor %}
+                </div>
+            </div>
+
+            <div class="tab__content">
+                <div>
+                    <h3>不涉及地点名词</h3>
+                    {% for jieba1 in jieba1s %}
+                       <label class="checkbox-inline1">
+                           <input type="checkbox">{{ jieba1 }}
+                       </label>
+                    {% endfor %}
+                </div>
+
+                <div>
+                    <h3>涉及地点名词</h3>
+                    {% for jieba2 in jieba2s %}
+                       <label class="checkbox-inline1">
+                           <input type="checkbox">{{ jieba2 }}
+                       </label>
+                    {% endfor %}
+                </div>
+
+                <div>
+                    <h3>案由</h3>
+                    {% for jieba3 in jieba3s %}
+                       <label class="checkbox-inline1">
+                           <input type="checkbox">{{ jieba3 }}
+                       </label>
+                    {% endfor %}
+                </div>
+
+                <div>
+                    <h3>形容词</h3>
+                    {% for jieba4 in jieba4s %}
+                       <label class="checkbox-inline1">
+                           <input type="checkbox">{{ jieba4 }}
+                       </label>
+                    {% endfor %}
+                </div>
+            </div>
+
+            <div class="tab__content">
+                <div>
+                    <h3>不涉及地点名词</h3>
+                    {% for jieba1 in jieba1s %}
+                       <label class="checkbox-inline1">
+                           <input type="checkbox">{{ jieba1 }}
+                       </label>
+                    {% endfor %}
+                </div>
+
+                <div>
+                    <h3>涉及地点名词</h3>
+                    {% for jieba2 in jieba2s %}
+                       <label class="checkbox-inline1">
+                           <input type="checkbox">{{ jieba2 }}
+                       </label>
+                    {% endfor %}
+                </div>
+
+                <div>
+                    <h3>案由</h3>
+                    {% for jieba3 in jieba3s %}
+                       <label class="checkbox-inline1">
+                           <input type="checkbox">{{ jieba3 }}
+                       </label>
+                    {% endfor %}
+                </div>
+
+                <div>
+                    <h3>形容词</h3>
+                    {% for jieba4 in jieba4s %}
+                       <label class="checkbox-inline1">
+                           <input type="checkbox">{{ jieba4 }}
+                       </label>
+                    {% endfor %}
+                </div>
+            </div>
+
+
+
+
+
+            <!--
+            <div class="tab__content">
+                <div>
+                    <h3>名词</h3>
+                    <label class="checkbox-inline">
+                        <input type="checkbox" value="option1">周永华人民医院人民医院
+                    </label>
+
+
+                    <label class="checkbox-inline">
+                        <input type="checkbox" value="option1">周永华人民医院人民医院
+                    </label>
+
+
+                    <label class="checkbox-inline">
+                        <input type="checkbox" value="option1">周永华人民医院人民医院
+                    </label>
+
+
+                    <label class="checkbox-inline">
+                        <input type="checkbox" value="option1">周永华人民医院人民医院
+                    </label>
+
+                    <label class="checkbox-inline">
+                        <input type="checkbox" value="option1">周永华人民医院人民医院
+                    </label>
+
+                    <label class="checkbox-inline">
+                        <input type="checkbox" value="option1">安徽省淮南市中级人民法院
+                    </label>
+
+                    <label class="checkbox-inline">
+                        <input type="checkbox" value="option1">周永华
+                    </label>
+
+                    <label class="checkbox-inline">
+                        <input type="checkbox" value="option1">周永华
+                    </label>
+                </div>
+
+                <div>
+                    <h3>动词</h3>
+                    <label class="checkbox-inline">
+                        <input type="checkbox" value="option1">周永华人民医院人民医院
+                    </label>
+
+
+                    <label class="checkbox-inline">
+                        <input type="checkbox" value="option1">周永华人民医院人民医院
+                    </label>
+
+
+                    <label class="checkbox-inline">
+                        <input type="checkbox" value="option1">周永华人民医院人民医院
+                    </label>
+
+
+                    <label class="checkbox-inline">
+                        <input type="checkbox" value="option1">周永华人民医院人民医院
+                    </label>
+
+                    <label class="checkbox-inline">
+                        <input type="checkbox" value="option1">周永华人民医院人民医院
+                    </label>
+
+                    <label class="checkbox-inline">
+                        <input type="checkbox" value="option1">安徽省淮南市中级人民法院
+                    </label>
+
+                    <label class="checkbox-inline">
+                        <input type="checkbox" value="option1">周永华
+                    </label>
+
+                    <label class="checkbox-inline">
+                        <input type="checkbox" value="option1">周永华
+                    </label>
+                </div>
+
+                <div>
+                    <h3>形容词</h3>
+                    <label class="checkbox-inline">
+                        <input type="checkbox" value="option1">周永华人民医院人民医院
+                    </label>
+
+
+                    <label class="checkbox-inline">
+                        <input type="checkbox" value="option1">周永华人民医院人民医院
+                    </label>
+
+
+                    <label class="checkbox-inline">
+                        <input type="checkbox" value="option1">周永华人民医院人民医院
+                    </label>
+
+
+                    <label class="checkbox-inline">
+                        <input type="checkbox" value="option1">周永华人民医院人民医院
+                    </label>
+
+                    <label class="checkbox-inline">
+                        <input type="checkbox" value="option1">周永华人民医院人民医院3额外、
+                    </label>
+
+                    <label class="checkbox-inline">
+                        <input type="checkbox" value="option1">安徽省淮南市中级人民法院
+                    </label>
+
+                    <label class="checkbox-inline">
+                        <input type="checkbox" value="option1">周永华
+                    </label>
+
+                    <label class="checkbox-inline">
+                        <input type="checkbox" value="option1">周永华
+                    </label>
+                </div>
+
+                <div>
+                    <h3>案由</h3>
+                    <label class="checkbox-inline">
+                        <input type="checkbox" value="option1">周永华人民医院人民医院
+                    </label>
+
+
+                    <label class="checkbox-inline">
+                        <input type="checkbox" value="option1">周永华人民医院人民医院
+                    </label>
+
+
+                    <label class="checkbox-inline">
+                        <input type="checkbox" value="option1">周永华人民医院人民医院
+                    </label>
+
+
+                    <label class="checkbox-inline">
+                        <input type="checkbox" value="option1">周永华人民医院人民医院
+                    </label>
+
+                    <label class="checkbox-inline">
+                        <input type="checkbox" value="option1">周永华人民医院人民医院
+                    </label>
+
+                    <label class="checkbox-inline">
+                        <input type="checkbox" value="option1">安徽省淮南市中级人民法院也一样
+                    </label>
+
+                    <label class="checkbox-inline">
+                        <input type="checkbox" value="option1">周永华
+                    </label>
+
+                    <label class="checkbox-inline">
+                        <input type="checkbox" value="option1">周永华
+                    </label>
+                </div>
+            </div>
+            -->
+
+        </div>
+
+
+        <!--
+        <label for="party">当事人</label>
+        <input type="text" id="party" class="text" placeholder="当事人"><br>
+
+        <label for="sex">性别</label>
+        <input type="text" id="sex" class="text"  placeholder="性别"><br>
+
+        <label for="nationality">民族</label>
+        <input type="text" id="nationality" class="text" placeholder="民族"> <br>
+
+        <label for="birthPlace">出生地</label>
+        <input type="text" id="birthPlace" class="text" placeholder="出生地"><br>
+
+        <label for="cause">案由</label>
+        <input type="text" id="cause" class="text" placeholder="案由"><br>
+
+        <label for="court">相关法院</label>
+        <input type="text" id="court" class="text" placeholder="相关法院"><br>
+        -->
+    </fieldset>
+
+    <!--保存案件与标注-->
+    <input type="button" id="saveButton" value="保存案件与标注" onclick="saveFile()">
+
+</div>
+
+</body>
+</html>
